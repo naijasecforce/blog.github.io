@@ -13,7 +13,7 @@ rating: 4.5
 
 The main body of the article goes here. Images are embedded using the format on the next line.
 
-![](../assets/images/example_document_xls.png)
+![](../assets/images/IMG_20190928_122245.jpg)
 
 #### About the Author:
 
