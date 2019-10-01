@@ -13,7 +13,7 @@ rating: 4.5
 
 The main body of the article goes here. Images are embedded using the format on the next line.
 
-![](../assets/images/IMG_20190928_122245.jpg)
+![](../assets/images/meetup_abuja_ope_20190928.jpg)
 
 #### About the Author:
 
