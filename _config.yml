@@ -14,7 +14,7 @@ permalink: /:title/
 future: true
 
 # Version number
-build: 20190921
+build: 20191002
 
 # Authors
 authors:
