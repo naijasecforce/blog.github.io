@@ -44,7 +44,9 @@ Hence,it is important for Nigeria and Nigerians to put in extra measures in prom
 
 ![](../assets/images/abuja_meetup_jumoke_28092019.jpg)
 
-The meetup was very enlightening and rich in contents as participants cannot wait to have another meetup soon but best believe the next will be another with Amazing speakers and rich contents. You hate to miss it!
+The meetup was very enlightening and rich in contents as participants cannot wait to have another meetup soon but best believe the next will be another with Amazing speakers and rich contents. 
+
+## You hate to miss it!
 
 #### About Author:
 Hamzah Lateef is a cybersecurity engineer who manages and support endpoint and Network security.He has implemented and managed cybersecurity projects 
