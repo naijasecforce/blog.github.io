@@ -29,9 +29,10 @@ The second speaker Mr Glory Idehen - an assistant director at central bank who i
 as this will fasten convincing managements to buy into security and IT implementation by allocating necessary funds.
 
 The Risk -Based NIST framework can help improve investment decision that organizations needs to make towards cybersecurity.  The Risk-Based NIST framework helps organizations to
-•	Understand what they want to protect (Ranging from Asset to organizational Data)
-• Answers the question of how to protect them (by providing list of controls/measure on   how   they to be implemented)
-•	Understand various threat that assets are exposed
+* Understand what they want to protect (Ranging from Asset to organizational Data)
+* Answers the question of how to protect them (by providing list of controls/measure on   how   they to be implemented)
+* Understand various threat that assets are exposed
+
 The process of answering all of these questions provide organization with their current state analysis, which will have help to fully identify all necessary risks and their likelihood of occurrence.
 Actions taken on the current state analysis will move an organization to the Target Security State (as defined by the organization).
 
