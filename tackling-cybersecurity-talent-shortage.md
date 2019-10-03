@@ -4,7 +4,7 @@ title:  "5 creative ways African business leaders can tackle cybersecurity talen
 author: Nkiruka
 categories: [ Cybersecurity, Africa, Talent shortage ]
 tags: [cybersecurity, naijasecforce]
-image: ../assets/images/shell_lunchbox_1.jpg
+image: ../assets/images/cybersecurity-talent-shortage.jpg
 description: "Tackling Cybersecurity Talent Shortage in Africa"
 featured: true
 hidden: true
@@ -35,3 +35,6 @@ Secondly, according to Gartner research fellow, Tom Scholtz - a lot of routine s
 Lastly, every team has an outstanding performer. However, it's a problem when cybersecurity teams rely solely on one person. I have always been an advocate for multiple contingencies and in my past leadership roles, I ensured the transfer of competencies and skills through knowledge sharing, lessons learned sessions, coaching, and mentorship. This paid off when people started to leave/migrate. Quickly positioning the beginners in your team to take up key roles presents tremendous benefits. Adopting any of these strategies may seem difficult but has been proven to be beneficial.
 
 ![](../assets/images/cybersecurity-talent-shortage-restructure.jpg)
+
+
+#### About the Author:
