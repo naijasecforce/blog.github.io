@@ -38,7 +38,7 @@ Lastly, every team has an outstanding performer. However, it's a problem when cy
 ![](../assets/images/cybersecurity-talent-shortage-restructure.jpg)
 
 
-#### About the Author:
+
 
 
 
