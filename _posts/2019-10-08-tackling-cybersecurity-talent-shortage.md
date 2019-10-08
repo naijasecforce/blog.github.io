@@ -40,9 +40,9 @@ Lastly, every team has an outstanding performer. However, it's a problem when cy
 
 #### About the Author:
 
-Nkiruka is a security and resilience strategic leader with over a decade’s experience leading large-scale strategic initiatives. As PwC Nigeria's Senior Manager - cybersecurity and resilience, she oversees cybersecurity, resilience, I.T standards, and privacy services. Her team helps thousands of organizations, and millions of people stay secure and resilient. Before joining PwC, she led the largest consulting workforce at Africa’s elite InfoSec GRC consulting firm – Digital Jewels limited.
+Nkiruka Aimienoho is a security and resilience strategic leader with over a decade’s experience leading large-scale strategic initiatives. As PwC Nigeria's Senior Manager - cybersecurity and resilience, she oversees cybersecurity, resilience, I.T standards, and privacy services. Her team helps thousands of organizations, and millions of people stay secure and resilient. Before joining PwC, she led the largest consulting workforce at Africa’s elite InfoSec GRC consulting firm – Digital Jewels limited.
  
-She is the founder of InfoSec Amazons, a non-profit initiative with the mission of supporting women in information security at entry and mid-level career levels
+She is the founder of InfoSec Amazons, a non-profit initiative with the mission of supporting women in information security at entry and mid-level career levels.
 
 
 
