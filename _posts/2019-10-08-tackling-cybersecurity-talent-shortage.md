@@ -11,7 +11,7 @@ hidden: true
 rating: 4.5
 ---
 
-## 5 creative ways African business leaders can tackle the Cybersecurity talent shortage and ever-growing brain drain
+## 5 Creative Ways African Business Leaders can Tackle the Cybersecurity Talent Shortage and Ever-growing Brain Drain
 
 ![](../assets/images/cybersecurity-talent-shortage.jpg)
 
@@ -21,7 +21,7 @@ Recently, my friend and I combed through a mental list of ex-colleagues and real
 Reports from emigration assistance groups and local banks show that African countries – including South Africa and Nigeria - have seen a sharp rise in the number of skilled people emigrating. Topping that list are cybersecurity professionals, leaving CISOs and business owners incapacitated. I have had discussions with business leaders who expressed their frustration with retaining their cybersecurity talents and had insightful conversations with many cybersecurity professionals on this issue. Here are five tips I believe would help CISOs and business leaders stay calm in these times where both issues (skills shortage and brain drain) are common.
 
 1. Dialogue!
-Good CISOs have conversations with their teams to understand their career goals and plans. Having these discussions, reveal details that can help you plan. Business leaders need to realize the myraid options available to cybersecurity professionals, so having those discussions early enough always pays off. I know some CISOs that got 3 months to 1 year in notice using this strategy.
+Good CISOs have conversations with their teams to understand their career goals and plans. Having these discussions, reveal details that can help you plan. Business leaders need to realize the myriad options available to cybersecurity professionals, so having those discussions early enough always pays off. I know some CISOs that got 3 months to 1 year in notice using this strategy.
 
 ![](../assets/images/cybersecurity-talent-shortage-dialogue.jpg)
 
