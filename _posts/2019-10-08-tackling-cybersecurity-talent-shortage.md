@@ -26,7 +26,7 @@ Good CISOs have conversations with their teams to understand their career goals 
 ![](../assets/images/cybersecurity-talent-shortage-dialogue.jpg)
 
 2. **Call HR in:**
-Due to a lack of understanding, futile attempts are being made by Human Resources to fill open cybersecurity positions. From many required certifications for entry-level positions, unrealistic pre-employment assessments, to incommensurate salaries. No wonder after many hurdles, the candidate's stay is short-lived, or worse still he/she turns down offers for a better job or more money. Business leaders must work with HR to rejig the recruitment process for security professionals. The outcomes should include realistic remuneration packages, clear job descriptions with progression requirements, and pre-employment assessments based on specific competencies.
+Due to a lack of understanding, futile attempts are being made by Human Resources to fill open cybersecurity positions. From many required certifications for entry-level positions, unrealistic pre-employment assessments, to incommensurate salaries. No wonder after many hurdles, the candidate's stay is short-lived, or worse still he/she turns down offers for a better job or more money.Business leaders must work with HR to rejig the recruitment process for security professionals. The outcomes should include realistic remuneration packages, clear job descriptions with progression requirements, and pre-employment assessments based on specific competencies.
 
 3. **Restructure:** 
 Depending on the context of your organization, there are different ways to restructure your security team. You may decide to outsource the management of cybersecurity processes and IT systems, decentralise cybersecurity functions or cross-train staff.
