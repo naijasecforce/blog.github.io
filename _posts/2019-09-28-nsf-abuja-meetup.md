@@ -28,7 +28,7 @@ Being a competent professional entail having knowledge, skills and behavior and 
 The second speaker Mr Glory Idehen - an assistant director at central bank who is also the current president of ISACA (Abuja chapter) talked on “Risk based NIST cybersecurity framework”. He began by emphasizing on how IT and Security exist to support the business. And not the other way around. Professionals should marry security and IT to support business
 as this will fasten convincing managements to buy into security and IT implementation by allocating necessary funds.
 
-The Risk -Based NIST framework can help improve investment decision that organizations needs to make towards cybersecurity.  The Risk-Based NIST framework helps organizations to;
+The Risk-Based NIST framework can help improve investment decision that organizations needs to make towards cybersecurity.  The Risk-Based NIST framework helps organizations to;
 
 * Understand what they want to protect (Ranging from Asset to organizational Data)
 * Answers the question of how to protect them (by providing list of controls/measure on   how   they to be implemented)
@@ -46,8 +46,9 @@ Hence,it is important for Nigeria and Nigerians to put in extra measures in prom
 
 ![](../assets/images/abuja_meetup_jumoke_28092019.jpg)
 
-The meetup was very enlightening and rich in contents as participants cannot wait to have another meetup soon but best believe the next will be another with amazing speakers and rich contents. 
+The meetup was very enlightening and rich in contents as participants cannot wait to have another meetup soon but best believe the next will be another with Amazing speakers and rich contents. 
 
 ## You hate to miss it!
 
-
+#### About Author:
+Hamzah Lateef is a cybersecurity engineer who manages and support endpoint and Network security.He has implemented and managed cybersecurity projects 
