@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 creative ways African business leaders can tackle cybersecurity talent shortage and ever-growing brain drain"
+title:  "5 Creative Ways African Business Leaders can Tackle Cybersecurity Talent Shortage and Ever-Growing Brain Drain"
 author: Nkiruka
 categories: [ Cybersecurity, Africa, Talent shortage ]
 tags: [cybersecurity, naijasecforce]
@@ -10,10 +10,6 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-
-## 5 Creative Ways African Business Leaders Can Tackle the Cybersecurity Talent Shortage and Ever-Growing Brain Drain
-
-![](../assets/images/cybersecurity-talent-shortage.jpg)
 
 Are you awake all-night thinking of the effects of Africa's cybersecurity skills gap and rising brain drain on your team? It's time to think differently.
 
