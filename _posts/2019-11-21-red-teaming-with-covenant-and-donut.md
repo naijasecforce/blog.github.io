@@ -4,7 +4,7 @@ title:  "Red Teaming with Covenant and Donut"
 author: Chinedu
 categories: [ Red Teaming, Hacking ]
 tags: [chinedu, naijasecforce, hacking, red-team]
-image: ../assets/1.jpg
+image: ../assets/images/1.jpg
 description: "Red Teaming with Convenant and Donut"
 featured: true
 hidden: true
