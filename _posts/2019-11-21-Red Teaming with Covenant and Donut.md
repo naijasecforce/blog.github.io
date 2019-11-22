@@ -103,6 +103,19 @@ Spin up a notepad program and check for the process ID (5132 in this case) using
 
 ![](../assets/images/15.png
 
+Execute the DonutTest program, providing the notepad process ID as an argument.
+
+![](../assets/images/15.png
+
+This should inject and execute the shellcode that is compatible with the process and give a revere shell on the Covenant C2.
+
+![](../assets/images/15.png
+
+We can now issue same queries as above without being detected by AV and EDRs.
+
+![](../assets/images/18.png
+
+This post only highlights one of many approaches for crafting payloads and also to introduce Covenant and Donut to give us an idea of how .NET tradecraft is evolving. For shellcode injection, I prefer to use a modified version of UrbanBishop to do the job.
 ## About the Author:
 Chinedu Onwukie is an experienced red teaming professional based in Canada. He has multiple years of management 
 and technical security experience cutting across consulting, banking, technology and insurance industry.
