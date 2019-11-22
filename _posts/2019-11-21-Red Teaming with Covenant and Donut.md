@@ -87,6 +87,21 @@ Donut provided a solution to our initial problem of loading assemblies into memo
 Here we issue a donut command to generate an x64 shellcode of our covenant payload (doctest.exe)
 The shellcode is generated as “doctest.bin”
 
+![](../assets/images/11.png
+
+The next step is to inject this shellcode into a running process with the same architecture. Also, note that injecting into a process affect the process (maybe not crash it, but might make it slower or non-reactive). Usually one can spin up a notepad and inject into the notepad process which should not cause any operational issues except that the tested EDR might flag the fact that notepad is issuing OS commands :D (don’t run “ShellCmd” when using notepad process, instead run “PowerShell” commands, though this depends on your EDR config)
+
+The generated shellcode files (for x86 and x64 bit process) are converted to Base64 and copied to clipboard using the command shown below:
+
+![](../assets/images/14.png
+
+They are pasted into an injector program “DonutTest” and built in Visual Studio (or using csc, or any platform that can compile c#). This program is responsible for the injection of the shellcodes into a specified process ID.
+
+![](../assets/images/13.png
+
+Spin up a notepad program and check for the process ID (5132 in this case) using Ryan's ProcessManager
+
+![](../assets/images/15.png
 
 ## About the Author:
 Chinedu Onwukie is an experienced red teaming professional based in Canada. He has multiple years of management 
