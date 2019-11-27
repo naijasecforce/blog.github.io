@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "There is a shell in your lunch-box"
-author: rotimi
+author: Mosimimisola
 categories: [ Career Path, Security Assessment ]
 tags: [Career path, naijasecforce]
 image: ../assets/images/shell_lunchbox_1.jpg
@@ -10,10 +10,12 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-
 # Career Path Series - Security Assessmeent
+With a lot of people trying to venture into cybersecurity in various career paths,Mosimisola has put together a career series where she interviews cybersecurity professionals in various career paths with the hope of providing some answers to aspiring cybersecurity professionals.
 
-With a lot of people trying to venture into cybersecurity in various carreer paths,Mosimisola has put together a career series where she interviews cybersecurity professionals in various career paths with the hope of providing some motivations and answers that people may need.
+# Security Assessment
+
+Security assessments are periodic exercises that test your organization’s security preparedness. They include checks for vulnerabilities in your IT systems and business processes, as well as recommending steps to lower the risk of future attacks. Security assessments are also useful for keeping your systems and policies up to date.
 
 ## Precious Silas 
 
@@ -49,12 +51,12 @@ I also look for people who have made it where I am trying to go. I study their j
 ## Chinedu Onwukike
 
 Chinedu is an information security specialist with strong expertise in threat inteligence,red teaming and incidence response.He has perfromed numerous IT audits and security assessment and he is experienced in handling information security challenges across various multi-national organisations-Identifying critical areas of risk esposure and adequately mitigating them.
-### What attracted you to Security Assessment? 
 
-I started off in IT trying to learn networking, self-studied for courses like Cisco's CCNA and CCNP, as at then I had no plans for security assessments.
-After achieving the CCNP, I was studying for the CCIE when I stumbled on some videos from SecurityTube.net, teaching about some tools and techniques for bypassing security.
-I did some further research and discovered there were very few people that understood security and I kind of developed a strong passion for the technical skills. 
-I noticed that the concepts were easy to grasp and there was a higher demand for their skills. I was good at research and quick to understand technologies so I thought to myself - "seems I would be very good in this path". 
+### What attracted you to this career path?  
+
+I started off in IT trying to learn networking, self-studied for courses like Cisco's CCNA and CCNP, as at then I had no plans for security assessments.After achieving the CCNP, I was studying for the CCIE when I stumbled on some videos from SecurityTube.net, teaching about some tools and techniques for bypassing security.
+
+I did some further research and discovered there were very few people that understood security and I kind of developed a strong passion for the technical skills. I noticed that the concepts were easy to grasp and there was a higher demand for their skills. I was good at research and quick to understand technologies so I thought to myself - "seems I would be very good in this path". 
 
 ### Was there something you wish you knew when you started?
 
@@ -88,7 +90,7 @@ I dedicate some time to read and research about various subjects I believe would
 Courses and certifications are good and provide a structured way to learn. For someone looking to security assessments, there are various learning curves depending on your prior knowledge. It might be easier for those in IT already than someone switching from an unrelated profession.
 In some cases, I recommend starting with some IT courses to help understand the concepts before moving to Security courses. Certifications like the CEH, Security+, OSCP can come when concepts are fully understood.
 
-Do you have any regrets so far?
+### Do you have any regrets so far?
 None.
 
 ### Stephen Kofi Asamoah
@@ -107,7 +109,7 @@ For someone currently unemployed and no experience in InfoSec, who wants to get 
 
 So my advice for those currently not working and looking to jump start career in InfoSec is based on case-by-case and can’t give a concrete one here. Now, next is whether the person really wants to get into the Technical or Non-technical area. Knowing whether the person just wants to get into “general” InfoSec or want to specialize in a specific “technical” area will determine some of the certs or paths I recommend to the person.
 
-### What’s the most underrated skill someone needs to have to excel in this path?
+### What is the most underrated skill someone needs to have to excel in this path?
 
 Persistence. Be ready to fail so many times, never give up and continue to fail until you get one right. Yes. I know that sounds cheesy but that’s the truth. More often, when I tell people what I do (professional Ethical Hacker), they get very excited and express the desire to get into my line of work. However, the moment I begin to explain to them what and how long it took me to get to this point, they begin to get discouraged. Because, they mostly expect an easy and fast way to get to this point. So my advice to whoever wants to get into this career path (Ethical Hacker) is be someone who is persistent, be ready to get frustrated, be able to do self-research into things and don’t be afraid to ask for help when you find yourself really stuck. I always tell people I’m always a student in this field and I will probably not stop learning until I decide not to pursue this career any longer because there’s too much to learn every time:-)
 
@@ -124,6 +126,6 @@ Our line of work is an ever-changing one, with adversaries always determining th
 
 
 #### Fun Fact:
-Stephen Kofi Asamoah is a big fun of Animated movies *blush* People close to him are usually surprised because they say he doesn'tlook like someone who's into such movies.He has  seen all Hotel Transilvania, Shrek, Minions, Mona, you name it lol.
+Stephen Kofi Asamoah is a big fun of Animated movies *blush* People close to him are usually surprised because they say he doesn'tlook like someone who's into such movies.He has  seen all Hotel Transilvania, Shrek, Minions, Mona, you name it (lol).
 
 
