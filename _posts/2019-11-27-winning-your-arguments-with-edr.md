@@ -5,7 +5,7 @@ author: Chinedu
 categories: [ EDR, Hacking,Red Teaming ]
 tags: [chinedu, naijasecforce,edr, red team ]
 image: ../assets/images/images/edr-6.png
-description: " Winning Your "Arguments" with EDRs ."
+description: "Winning Your 'Arguments' with EDRs."
 featured: true
 hidden: true
 rating: 4.5
@@ -53,6 +53,6 @@ This process was replicated on a system with well known EDRs and AVs without det
 Source: [secureallofus](https://secureallofus.blogspot.com/2019/11/winning-your-arguments-with-edrs.html)
 
 ## About the Author:
-Chinedu Onwukie is an experienced red teaming professional based in Canada. He has multiple years of management 
+Chinedu Onwukike is an experienced red teaming professional based in Canada. He has multiple years of management 
 and technical security experience cutting across consulting, banking, technology and insurance industry.
 
