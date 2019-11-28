@@ -5,7 +5,7 @@ author: Chinedu
 categories: [ EDR, Hacking,Red Teaming ]
 tags: [chinedu, naijasecforce,edr, red team ]
 image: ../assets/images/images/edr-6.png
-description: " Winning Your "Arguments" with EDRs ."
+description: "Winning Your 'Arguments' with EDRs."
 featured: true
 hidden: true
 rating: 4.5
