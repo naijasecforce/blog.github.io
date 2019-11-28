@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Winning Your "Arguments" with EDRs "
+title:  "Winning Your 'Arguments' with EDRs."
 author: Chinedu
 categories: [ EDR, Hacking,Red Teaming ]
 tags: [chinedu, naijasecforce,edr, red team ]
