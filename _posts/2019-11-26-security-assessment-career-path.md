@@ -4,17 +4,17 @@ title:  "Career Path Series - Security Assessmeent"
 author: Mosimilolu
 categories: [ Career Path, Security Assessment ]
 tags: [Career path, naijasecforce]
-image: ../assets/images/shell_lunchbox_1.jpg
+image: ../assets/images/career-path-series.png
 description: "Career path in cybersecurity."
 featured: true
 hidden: true
 rating: 4.5
 ---
-With a lot of people trying to venture into cybersecurity,Mosimisola has put together a career series where she interviews cybersecurity professionals in various career paths with the hope of providing some answers to aspiring cybersecurity professionals.
+Mosimilolu has put together a career series where she interviewed cybersecurity professionals in various career paths with the hope of providing some answers as regards cybersecurity.
 
 # Security Assessment
 
-Security assessments are periodic exercises that test your organization’s security preparedness. They include checks for vulnerabilities in your IT systems and business processes, as well as recommending steps to lower the risk of future attacks. Security assessments are also useful for keeping your systems and policies up to date.
+Security assessments are periodic exercises that test your organization’s security preparedness. They include checks for vulnerabilities in your IT systems and business processes, as well as recommending steps to lower the risk of future attacks. Security assessments are also useful for keeping your systems and policies up to date.It also identifies, assesses, and implementing key security controls.
 
 ## Precious Silas 
 
@@ -92,7 +92,7 @@ In some cases, I recommend starting with some IT courses to help understand the 
 ### Do you have any regrets so far?
 None.
 
-### Stephen Kofi Asamoah
+## Stephen Kofi Asamoah
 
 Stephen Kofi Asamoah is a Snr. Cybersecurity Consultant in the U.S.A. He has over ten (10) years of experience in the IT Security industry, specializing in Offensive Cybersecurity operations including Network Infrastructure, Application, ATM, Cloud Computing, Machine Learning, Wireless, Point of Sale (PoS) penetration tests, Social Engineering, Red and Purple Teaming.
 He has extensive knowledge and experience in translating technical threats into business risks and aiding organizations in the development of administrative and detective controls through security operations and incident response strategies, policies and procedures development to combat cyber threats.
