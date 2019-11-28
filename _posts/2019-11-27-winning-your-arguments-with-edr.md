@@ -11,8 +11,6 @@ hidden: true
 rating: 4.5
 ---
 
-##  Winning Your "Arguments" with EDRs 
-
 A recent client engagement had me thinking about ways to evade security tools that rely heavily on command line arguments. During a red team task, I wanted to dump the SAM database of the victim’s system, but I knew that commands such as “reg save HKLM\SAM SAM” would easily be caught by the installed EDR. This technique is well-known and documented under [Credential Dumping](https://attack.mitre.org/techniques/T1003/) in the MITRE ATTACK framework, so most EDRs should pick it up.
 
 What about somehow modifying the commandline arguments with a fake one, one that’s definitely not on the EDR’s alert configuration. I later found out this has been implemented in Cobalt Strike 3.13, but I don’t have CobaltStrike ☹ yet. I encountered some online research work that has done very well in introducing and explaining this concept:
