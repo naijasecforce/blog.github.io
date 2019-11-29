@@ -10,7 +10,7 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-Mosimilolu has put together a career series where she interviewed cybersecurity professionals on various career paths.This will help aspiring cybersecurity professionals to understand what the career path entails and how these profesionals are continiously excelling.
+Mosimilolu has put together a career series where she interviewed cybersecurity professionals on various career paths.This will help aspiring cybersecurity professionals to understand what the career path entails and how these profesionals are continiously excelling in their various paths.
 
 # Career Path Series - Security Assessment
 
@@ -77,7 +77,7 @@ I joined security forums to meet more people and have better insights. I searche
 ### What’s the most underrated skill someone needs to have to excel in this path?
 
 * Hacker's Mindset - It might not be considered by some as a skill, but it is what has taken me this far. It's the mindset that brings the breakthroughs. It enables you find unexpected ways of doing things. It is built with experience and going the extra-mile attitude. 
-* Presentation skill - I would describe this as the ability to explain technical concepts in simple terms. A lot of technical folks lack this, but it is very necessary to demonstrate the value add of your work and its impact to business.
+* Presentation skill - I would describe this as the ability to explain technical concepts in simple terms. A lot of technical  folks lack this, but it is very necessary to demonstrate the value add of your work and its impact to business.
 
 ### How do you continuously keep yourself updated? 
 
