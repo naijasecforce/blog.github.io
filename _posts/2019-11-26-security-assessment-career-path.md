@@ -10,9 +10,9 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-Mosimilolu has put together a career series where she interviewed cybersecurity professionals in various career paths with the hope of providing some answers as regards cybersecurity.
+Mosimilolu has put together a career series where she interviewed cybersecurity professionals on various career paths.This will help you understand what the career path entails and how these profesionals are continiously excelling.
 
-# Security Assessment
+# Career Path Series - Security Assessment
 
 Security assessments are periodic exercises that test your organization’s security preparedness. They include checks for vulnerabilities in your IT systems and business processes, as well as recommending steps to lower the risk of future attacks. Security assessments are also useful for keeping your systems and policies up to date.It also identifies, assesses, and implementing key security controls.
 
