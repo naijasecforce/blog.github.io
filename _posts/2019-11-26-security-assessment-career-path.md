@@ -10,7 +10,7 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-Mosimilolu has put together a career series where she interviewed cybersecurity professionals on various career paths.This will help you understand what the career path entails and how these profesionals are continiously excelling.
+Mosimilolu has put together a career series where she interviewed cybersecurity professionals on various career paths.This will help aspiring cybersecurity professionals to understand what the career path entails and how these profesionals are continiously excelling.
 
 # Career Path Series - Security Assessment
 
@@ -19,12 +19,12 @@ Security assessments are periodic exercises that test your organization’s secu
 ## Precious Silas 
 
 Precious Silas is a technology advisor in a professional service firm. Her line of service focuses on helping organizations perform Security assessments and reviews across various platforms, as well as helping them align their IT and security practices with key industry standards, amongst other functions.
-When she's not busy developing her cyber security wings, she is either trying out new cooking recipes or helping with kids work in church or spending quality time with family and friends.
+When she's not busy developing her cyber security wings, she is either trying out new cooking recipes, helping with kids work in church or spending quality time with family and friends.
 
 ### What attracted you to this career path? 
 It’s literally my love for keeping things safe 😊. I have found that to keep your stuff safe, you need to understand possible ways by which it may be broken, tempered, altered or outrightly taken. And that’s really my view of information security.
-Throughout my university days studying computer Engineering, I always wondered what aspect of Technology I was truly interested in. I picked an interest in Networking but soon got bored☹. 
-One of the courses in my final year of University had been Network Security.  I later took a course during my NYSC year to explore this interest. Let’s just say I got hooked from then 😊. As the days go by, I’ve seen more reasons why I’m in the right career for me. 
+Throughout my university days studying computer engineering, I always wondered what aspect of technology I was truly interested in. I picked an interest in networking but soon got bored☹. 
+One of the courses in my final year of university had been Network Security.  I later took a course during my NYSC year to explore this interest. Let’s just say I got hooked from then 😊. As the days go by, I’ve seen more reasons why I’m in the right career for me. 
 
 ### How has your first few years in Security Assessments been for you?
 
@@ -38,7 +38,7 @@ I am thankful for the path that has led me here, however, I wish I had known abo
 
 Be passionate and believe in your capabilities to do anything. One word from a mentor that kept me going at the beginning of my journey is…. ‘Impossible is nothing’. You can excel in this field if you put your mind to it.
 
-### What advice would you give someone to do prior to getting a job in this field?
+### What advice would you give prior to getting a job in this field?
 
 Be open and ready to learn. Develop yourself and research relevant resources. If you can, seek an internship opportunity to gain practical experience on some of the areas of the field. Build networks with individuals in the field; people with similar goals as you. 
 
@@ -76,8 +76,8 @@ I joined security forums to meet more people and have better insights. I searche
 
 ### What’s the most underrated skill someone needs to have to excel in this path?
 
-Hacker's Mindset - It might not be considered by some as a skill, but it is what has taken me this far. It's the mindset that brings the breakthroughs. It enables you find unexpected ways of doing things. It is built with experience and going the extra-mile attitude. 
-Presentation skill - I would describe this as the ability to explain technical concepts in simple terms. A lot of technical folks lack this, but it is very necessary to demonstrate the value add of your work and its impact to business.
+* Hacker's Mindset - It might not be considered by some as a skill, but it is what has taken me this far. It's the mindset that brings the breakthroughs. It enables you find unexpected ways of doing things. It is built with experience and going the extra-mile attitude. 
+* Presentation skill - I would describe this as the ability to explain technical concepts in simple terms. A lot of technical folks lack this, but it is very necessary to demonstrate the value add of your work and its impact to business.
 
 ### How do you continuously keep yourself updated? 
 
@@ -98,19 +98,19 @@ Stephen Kofi Asamoah is a Snr. Cybersecurity Consultant in the U.S.A. He has ove
 He has extensive knowledge and experience in translating technical threats into business risks and aiding organizations in the development of administrative and detective controls through security operations and incident response strategies, policies and procedures development to combat cyber threats.
 
 ### What would be an important piece of advice for someone who is considering going into Security Assessment?
-So Information Security is very broad and encompasses several areas, which I generally put under Technical and Non-technical categories. When I’m talking to someone who is considering this line of work, there are few questions I ask the person to understand where their interest really lies and also some recommended ways or paths to take. So for instance, I would ask if the person is currently employed, unemployed or in school. Whether the Technical or Non-technical path will suit the person much better. 
+So Information Security is very broad and encompasses several areas, which I generally put under technical and Non-technical categories. When I’m talking to someone who is considering this line of work, there are few questions I ask the person to understand where their interest really lies and also some recommended ways or paths to take. So for instance, I would ask if the person is currently employed, unemployed or in school. Whether the Technical or Non-technical path will suit the person much better. 
 
-The reason I ask the employment status is because I have found it to be a lot easier to transition from your current role into that of InfoSec within the organization than if you decide to leave, probably take some InfoSec certificates and decide to get hired in the field. For instance, I started off my career as an IT Auditor and when I realized I wanted to get into Technical InfoSec area, I started prepping myself to transition through researches, self-teaching, certifications and Masters in InfoSec, which gave me enough leverage for other companies to want to hire me when I decided to leave my current organization. When the person is still in school, they have the advantage to study the basics and get the InfoSec fundamentals before graduation, which means the person is coming out having the fundamentals to quickly pick up when employed. 
+The reason I ask the employment status is because I have found it to be a lot easier to transition from your current role into that of InfoSec within the organization than if you decide to leave, probably take some InfoSec certificates and decide to get hired in the field. For instance, I started off my career as an IT Auditor and when I realized I wanted to get into Technical InfoSec area, I started prepping myself to transition through researches, self-teaching, certifications and Masters in InfoSec, which gave me enough leverage for other companies to want to hire me when I decided to leave my current organization.
 
-For students, I recommend they start networking, attending InfoSec-related meetings and most importantly, try to get an internship or try to start applying for jobs latest at the start of your final semester (now, this part of the recommendation depends on the location of the person. Here in the U.S., you can get a job offer before graduation if you start the job search while in school and about to graduate.). For instance, one of my mentees just got an internship with one of the top consulting firms here in the U.S and that’s because he took the advice to start networking, attending seminars, conference and at one of these conference, he got few interviews and landed internship offers. 
+When the person is still in school, they have the advantage to study the basics and get the InfoSec fundamentals before graduation, which means the person is coming out having the fundamentals to quickly pick up when employed.For students, I recommend they start networking, attending InfoSec-related meetings and most importantly, try to get an internship or try to start applying for jobs latest at the start of your final semester (now, this part of the recommendation depends on the location of the person. Here in the U.S., you can get a job offer before graduation if you start the job search while in school and about to graduate.). For instance, one of my mentees just got an internship with one of the top consulting firms here in the U.S and that’s because he took the advice to start networking, attending seminars, conference and at one of these conference, he got few interviews and landed internship offers. 
 
-For someone currently unemployed and no experience in InfoSec, who wants to get Into this field, it becomes a bit of a challenge. This might sound unfair, however, most organizations would hire people with some sorta experience in this field, if the person is not a student. Most people who are currently not employed and come to be for advice about considering InfoSec career usually come with preconceived idea about taking certifications and that should be good enough to jump into the field. Certs are great, however, they cannot be replace real experience. 
+For someone currently unemployed and no experience in InfoSec, who wants to get Into this field, it becomes a bit of a challenge. This might sound unfair, however, most organizations would hire people with some sorta experience in this field, if the person is not a student. Most people who are currently not employed and come to be for advice about considering InfoSec career usually come with preconceived idea about taking certifications and that should be good enough to jump into the field. Certs are great, however, they cannot replace real experience.So my advice for those currently not working and looking to jump start career in InfoSec is based on case-by-case and can’t give a concrete one here. 
 
-So my advice for those currently not working and looking to jump start career in InfoSec is based on case-by-case and can’t give a concrete one here. Now, next is whether the person really wants to get into the Technical or Non-technical area. Knowing whether the person just wants to get into “general” InfoSec or want to specialize in a specific “technical” area will determine some of the certs or paths I recommend to the person.
+Next is whether the person really wants to get into the Technical or Non-technical area. Knowing whether the person just wants to get into “general” InfoSec or want to specialize in a specific “technical” area will determine some of the certs or paths I will recommend.
 
 ### What is the most underrated skill someone needs to have to excel in this path?
 
-Persistence. Be ready to fail so many times, never give up and continue to fail until you get one right. Yes. I know that sounds cheesy but that’s the truth. More often, when I tell people what I do (professional Ethical Hacker), they get very excited and express the desire to get into my line of work. However, the moment I begin to explain to them what and how long it took me to get to this point, they begin to get discouraged. Because, they mostly expect an easy and fast way to get to this point. So my advice to whoever wants to get into this career path (Ethical Hacker) is be someone who is persistent, be ready to get frustrated, be able to do self-research into things and don’t be afraid to ask for help when you find yourself really stuck. I always tell people I’m always a student in this field and I will probably not stop learning until I decide not to pursue this career any longer because there’s too much to learn every time:-)
+Persistence.Be ready to fail so many times, never give up and continue to fail until you get one right. Yes. I know that sounds cheesy but that’s the truth. More often, when I tell people what I do (professional Ethical Hacker), they get very excited and express the desire to get into my line of work. However, the moment I begin to explain to them what and how long it took me to get to this point, they begin to get discouraged. Because, they mostly expect an easy and fast way to get to this point. So my advice to whoever wants to get into this career path (Ethical Hacker) is be someone who is persistent, be ready to get frustrated, be able to do self-research into things and don’t be afraid to ask for help when you find yourself really stuck. I always tell people I’m always a student in this field and I will probably not stop learning until I decide not to pursue this career any longer because there’s too much to learn every time:-)
 
 ### What is the one book you've read that changed/impacted your career?
 
