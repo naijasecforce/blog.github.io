@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "There is a shell in your lunch-box"
-comments: true
 author: rotimi
 categories: [ Reverse Shell, Hacking ]
 tags: [rotimi, naijasecforce]

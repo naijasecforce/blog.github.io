@@ -1,6 +1,6 @@
 ---
 layout: default
-comments: true
+disqus: false
 archive: false
 post_class: post-template
 ---
@@ -142,9 +142,15 @@ post_class: post-template
 
 <!-- Begin Comments
 ================================================== -->
-
-  {% include disqus.html %}
-
+{% if page.comments != false %}
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                {% include disqus.html %}
+            </div>
+        </div>
+    </div>
+{% endif %}
 <!--End Comments
 ================================================== -->
 
