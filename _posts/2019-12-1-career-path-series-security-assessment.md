@@ -11,8 +11,11 @@ hidden: true
 rating: 4.5
 ---
 # Career Path Series - Security Assessment
+As we all know,cybersecurity has many sub-domains.In this series,Mosimilolu - a cybersecurity senior consultant and a member of the NaijaSecForce interviewed prominent Nigerian cybersecurity professionals specialized in security assessment
 
 Security assessments are periodic exercises that test your organization’s security preparedness. They include checks for vulnerabilities in your IT systems and business processes, as well as recommending steps to lower the risk of future attacks. Security assessments are also useful for keeping your systems and policies up to date.It also identifies, assesses, and implementing key security controls.
+
+Do enjoy the interviews!
 
 ## Precious Silas 
 
