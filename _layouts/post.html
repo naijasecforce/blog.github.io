@@ -143,7 +143,15 @@ post_class: post-template
 <!-- Begin Comments
 ================================================== -->
 
+<div class="container">
+<div id="comments" class="row justify-content-center mb-5">
+<div class="col-md-8">
+{% if site.disqus.shortname %}
   {% include disqus.html %}
+{% endif %}
+</div>
+</div>
+</div>
 
 <!--End Comments
 ================================================== -->
