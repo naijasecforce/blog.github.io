@@ -7,7 +7,7 @@ categories: [ Reverse Shell, Hacking ]
 tags: [rotimi, naijasecforce]
 image: ../assets/images/shell_lunchbox_1.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---

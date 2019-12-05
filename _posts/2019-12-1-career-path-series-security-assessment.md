@@ -10,7 +10,6 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-
 # Career Path Series - Security Assessment
 As we all know,cybersecurity has many sub-domains.In this series,Mosimilolu - a cybersecurity senior consultant and a member of the NaijaSecForce interviewed prominent Nigerian cybersecurity professionals specialized in security assessment
 
