@@ -10,11 +10,14 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-Mosimilolu has put together a career series where she interviewed cybersecurity professionals on various career paths.This will help aspiring cybersecurity professionals to understand what the career path entails and how these profesionals are continiously excelling.
 
 # Career Path Series - Security Assessment
 
+As we all know, cybersecurity has many subdomains.Mosimiolu a senior cybersecurity consultant and a memeber of the NaijaSecForce interviewed prominent Nigerian cybersecurity professionals in various security domains.First in our series is security assessment.
+
 Security assessments are periodic exercises that test your organization’s security preparedness. They include checks for vulnerabilities in your IT systems and business processes, as well as recommending steps to lower the risk of future attacks. Security assessments are also useful for keeping your systems and policies up to date.It also identifies, assesses, and implementing key security controls.
+
+Do enjoy the interviews.
 
 ## Precious Silas 
 
