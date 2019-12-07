@@ -10,6 +10,15 @@ featured: true
 hidden: true
 rating: 4.5
 ---
+
+Careeer Path Series - Governance ,Risk and Compliance (GRC)
+In our second episode of career path series, Mosimi intervviwed cybersecurity professionals in GRC.
+
+
+incase you missed it, check out our first episode on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/)
+
+Do enjoy the interview.
+
 ## Veronica Ikpa
 Veronica Ikpa is building a career in cybersecurity.She currently work in the managed security team in a broadband, ISP and communications company.She has perfromed information security audits with ISACA standards and global best practices and also risks assessment using COBIT 5.She currently work in implementing ISO27001 security controls and ensuring security policies and procedures are in line with ISO27001 and PCI-DSS standards.
 In her spare time, she create contents and drive conversations about technology through her blog [Digi Convos](http://digiconvos.com). She loves food,travelling, visiting new places, learning new things and exploring cultures.
@@ -70,7 +79,39 @@ For a newbie in Information Security, I would advise Security+ or SSCP. But the 
 ### Do you have any regrets so far?
 None so far. Everything has been going according to plan. To God be the glory.
 
-  
+## Nkiru Aimienoho
+Nkiru Aimienoho (@InfoSecAmazon) is a Senior Manager Cybersecurity & Business resilience at PwC Nigeria. She has been involved in the provision of various cybersecurity and business resilience services in the various sectors of the economy both internationally and locally. Some of these sectors include banking and I.T services, energy, and telecommunications.
+
+Nkiru devotes her craft to promoting Cybersecurity and Business continuity. When she is not leading her team, she spends her time mentoring females in the tech industry. In her spare time she enjoys a good laugh with friends, watching her favorite comedy shows, or reading a good book.
+
+ 
+### What would be an important piece of advice for someone who is considering going into Information Security GRC?
+ 
+I would advise anyone with the opportunity to seize it, learn ferociously, and connect with people that drive you to be better. 
+Taking this advice early in my career enabled me to undertake a variety of exciting cybersecurity roles, such as - Information Assurance Analyst, Information security Manager, Business Continuity & Disaster recovery specialist, Security Awareness Training Specialist, Security Auditor, and People Hacker/ social engineer.It facilitated the discovery of my inclination for both Information/Cyber security and Business resilience.
+
+ 
+### What’s the most underrated skill someone needs to have to excel in this path?
+
+That’s a hard one! The ability to be curious, confident, and possess excellent relationship management, and communication skills are underrated in the tech industry.
+ 
+### What is the one book you’ve read that changed/impacted your life?
+'The Pressure Cooker' by Nkiru Olumide - Ojo, it helped me build character and mental strength. Among other things, she gave advice, relevant for cybersecurity ladies like you and I, such as: Be confident, recognize allies and be an ally, seize opportunities, build your life in the way that allows you have the things that matter to you, (e.g. quality time with - family, your spouse, and kids), dream big, master the art of self-assessment, build competence, the wise have learned to manage themselves and their bosses. She bolstered the need to create a support system that enables one to maintain the home front and bring their best self to work.
+
+### Do you have mentees? How do you pass on this knowledge? 
+Yes, I have mentees. I run a personal volunteering / mentoring initiative for ladies, and I call it – InfoSec Amazons. I am passionate about supporting ladies in Cybersecurity and Resilience. Years ago, my boss brought this innate disposition to my attention. She noticed that although I worked well with the guys, I took a keen interest in grooming younger female consultants. 
+I transfer knowledge through coaching, having short-sessions where I motivate them and talk about their career goals and the areas they need my support.It could be as little as listening to them, putting in a word for them as they grow, sending relevant study materials, checking up on or encouraging them through the learning process, and most importantly celebrating their progress and wins.
+ 
+ 
+### What is your advice for experienced people like yourself?
+I consider myself as someone who is still learning. However, here's my opinion: Use your power for others. Help a sister or brother up! As the case may be. Our community would be better if we support each other. 
+
+
+And just for laughs: some fun/quirky facts about you. 
+I represented my elementary and secondary/high school in athletics competitions. I was in the relay team; and ran 100 meters and 200 meters races. However, Sweet bread happened! So I lost it. I still believe that soon, my glory days on the tracks would be restored. Additionally, I have other cool skills that I am hell-bent on retaining. I draw and sing very well (I’ll like to think so!)…Laughs. I got both skills from my Dad. Plus, in school, I was nicknamed 'Effizzi' for my drawing prowess.
+ 
+
+
 
 
  
