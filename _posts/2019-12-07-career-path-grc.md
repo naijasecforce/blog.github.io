@@ -16,7 +16,7 @@ In our second episode of career path series, Mosimi intervviwed cybersecurity pr
 Governance, risk and compliance (GRC) refers to a strategy for managing an organization's overall governance, enterprise risk management and compliance with regulations
 
 
-incase you missed it, check out our first episode on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/)
+Incase you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/)
 
 Do enjoy the interview.
 
