@@ -11,8 +11,11 @@ hidden: true
 rating: 4.5
 ---
 
+Career Path Series - Industial Contol Systems(ICS) and Supervisory Control and Data Acquisition (SCADA).
+
 Hello again,
 This is our second series in our career path series, our first series was on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/) .In this series ,we will be talking interviewing cybersecurity professionals on the security of Industial Contol Systems(ICS) and Supervisory Control and Data Acquisition (SCADA).
+
 
 ## Adetutu Ogunsowo
 Adetutu is an information security professional with cognizant experience in cyber security consulting services . IT governance, Risk and Compliance.He is currently involved in consulting engagements that cuts across providing ICS Security Audit & Reviews, IT Controls audit & assessment, Cybersecurity maturity assessment & modelling, and Implementation and audit of international standards such as ISO 27001 (ISMS), 22301 (BCMS), PCI-DSS, NESA, and ISA 62443/99.
