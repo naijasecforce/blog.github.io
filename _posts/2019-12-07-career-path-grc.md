@@ -10,9 +10,10 @@ featured: true
 hidden: true
 rating: 4.5
 ---
+# Careeer Path Series - Governance ,Risk and Compliance (GRC)
 
-Careeer Path Series - Governance ,Risk and Compliance (GRC)
-In our second episode of career path series, Mosimi intervviwed cybersecurity professionals in GRC.
+In our second episode of career path series, Mosimi intervviwed cybersecurity professionals in Governance ,Risk and Compliance.
+Governance, risk and compliance (GRC) refers to a strategy for managing an organization's overall governance, enterprise risk management and compliance with regulations
 
 
 incase you missed it, check out our first episode on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/)
