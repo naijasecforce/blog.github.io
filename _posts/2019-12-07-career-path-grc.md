@@ -4,7 +4,7 @@ title:  "Career Path Series - GRC"
 author: Mosimilolu
 categories: [ Career Path, GRC ]
 tags: [Career path, naijasecforce]
-image: ../assets/images/career-path-series.png
+image: ../assets/images/career-path-grc.jpg
 description: "Career path in cybersecurity."
 featured: true
 hidden: true
