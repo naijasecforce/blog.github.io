@@ -11,6 +11,8 @@ hidden: true
 rating: 4.5
 ---
 ## Veronica Ikpa
+Veronica Ikpa is building a career in cybersecurity.She currently work in the managed security team in a broadband, ISP and communications company.She has perfromed information security audits with ISACA standards and global best practices and also risks assessment using COBIT 5.She currently work in implementing ISO27001 security controls and ensuring security policies and procedures are in line with ISO27001 and PCI-DSS standards.
+In her spare time, she create contents and drive conversations about technology through her blog [Digi Convos](http://digiconvos.com). She loves food,travelling, visiting new places, learning new things and exploring cultures.
 
 ### What attracted you to this career path? 
 I started my career in information systems auditing. As an auditor, you are required to assess the security controls in information systems that have been deployed in an organization. You also play the role of an independent advisor to the management of any organization you work in. Although, I loved auditing, I was curious about how information security works, and this picked my interest. I wanted to be able to perform vulnerability and penetration tests, configure and manage firewalls, document policies and create awareness about information security in my organization. I wanted to be a subject matter expert in auditing and security, this desire attracted me to information security.
@@ -36,8 +38,39 @@ Do a research on the role you are going for, and the role you want to be in the 
 ### Do you have a mentor?
 No, I do not, but I have people I look up to. People who motivate me in this field. People like Rotimi, Sophie, Simi, Kess, Lilian and a couple of others. 
 
-Brief Bio
-Veronica Ikpa is building a career in cybersecurity.She currently work in the managed security team in a broadband, ISP and communications company.She has perfromed information security audits with ISACA standards and global best practices and also risks assessment using COBIT 5.She currently work in implementing ISO27001 security controls and ensuring security policies and procedures are in line with ISO27001 and PCI-DSS standards.
-In her spare time, she create contents and drive conversations about technology through her blog [Digi Convos](http://digiconvos.com). She loves food,travelling, visiting new places, learning new things and exploring cultures.
+
+## Damiloa Obasa
+Damilola is an Information Security Consultant with some years of experience in certification of organizations to international best practices and standard. He possesses IT project management and business communication skills. 
+He is interested in learning, educating and collaborating with interested intelligent individuals and attending Silent Discos. 
+
+### What attracted you to this career path
+Firstly, I knew I wasn’t going to pursue a career in my course of bachelor’s degree (Electrical Electronics). So I researched on the best career path in IT and generally on jobs that would be relevant over a long period of time, Information Security and a few others emerged, However I had conversations with a few people and luckily my first job landed me directly in Information Security.
+
+### Was there something you wish you knew when you started?
+Not really, it was an entirely new field to me and I was willing to learn all I can as I continued to build my career.
+
+### What would be an important piece of advice for someone who is considering going into your career path?
+Stay patient and hungry. As long as you have those two attributes, you will get to the level which you want someday. Also, be willing to sell yourself any time you have an opportunity.
+
+### Do you have a mentor? How important is it to have a mentor in the infosec field?
+Yes I do have a few people whose experience I emulate and model my career after. Having a mentor will definitely open doors that you can leverage on including their relationship.
+*‘If I have seen any farther, it is by standing on the shoulders of those who have gone ahead of me’ – Abraham Lincoln.*
+
+### What is the most underrated skill someone needs to have to excel in this path?
+Most underrated to me or rather overlooked to me will be ‘Public Speaking’. More around understanding your audience and passing your knowledge to them in a perfect way.
+
+## How do you continuously keep yourself updated?
+* Have conversations with people in the industry to know what’s happening so far
+* Cybersecurity conferences, groups and forums.
+* Online Courses.
+
+### What professional course would you advice? 
+For a newbie in Information Security, I would advise Security+ or SSCP. But the ultimate goal would be CISSP or OSCP if one is technical.
+
+### Do you have any regrets so far?
+None so far. Everything has been going according to plan. To God be the glory.
+
+  
+
 
  
