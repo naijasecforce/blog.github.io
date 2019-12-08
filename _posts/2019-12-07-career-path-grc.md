@@ -12,7 +12,7 @@ rating: 4.5
 ---
 # Careeer Path Series - Governance ,Risk and Compliance (GRC)
 
-In our second episode of career path series, Mosimi interviewed cybersecurity professionals in Governance ,Risk and Compliance.
+In our second series of career path, Mosimi interviewed cybersecurity professionals in Governance ,Risk and Compliance.
 Governance, risk and compliance (GRC) refers to a strategy for managing an organization's overall governance, enterprise risk management and compliance with regulations.[GRC](https://oxfordcomputertraining.com/glossary/grc/) are three disciplines that can help ensure an organization meets its objectives. An organization:
 * Needs processes to monitor the achievement of its goals (governance)
 * Should attempt to assess and mitigate the risks that may prevent this, (risk management) and
@@ -24,7 +24,7 @@ Do enjoy the interview.
 
 ## Veronica Ikpa
 Veronica Ikpa is building a career in cybersecurity.She currently work in the managed security team in a broadband, ISP and communications company.She has perfromed information security audits with ISACA standards and global best practices and also risks assessment using COBIT 5.She currently work in implementing ISO27001 security controls and ensuring security policies and procedures are in line with ISO27001 and PCI-DSS standards.
-In her spare time, she create contents and drive conversations about technology through her blog [Digi Convos](http://digiconvos.com). She loves food,travelling, visiting new places, learning new things and exploring cultures.
+In her spare time, she create contents and drive conversations about technology through her blog [Digiconvos](http://digiconvos.com). She loves food,travelling, visiting new places, learning new things and exploring cultures.
 
 ### What attracted you to this career path? 
 I started my career in information systems auditing. As an auditor, you are required to assess the security controls in information systems that have been deployed in an organization. You also play the role of an independent advisor to the management of any organization you work in. Although, I loved auditing, I was curious about how information security works, and this picked my interest. I wanted to be able to perform vulnerability and penetration tests, configure and manage firewalls, document policies and create awareness about information security in my organization. I wanted to be a subject matter expert in auditing and security, this desire attracted me to information security.
