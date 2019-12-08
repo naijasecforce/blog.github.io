@@ -56,7 +56,7 @@ No, I do not, but I have people I look up to. People who motivate me in this fie
 Damilola is an Information Security Consultant with some years of experience in certification of organizations to international best practices and standard. He possesses IT project management and business communication skills. 
 He is interested in learning, educating and collaborating with interested intelligent individuals and attending Silent Discos. 
 
-### What attracted you to this career path
+### What attracted you to this career path?
 Firstly, I knew I wasn’t going to pursue a career in my course of bachelor’s degree (Electrical Electronics). So I researched on the best career path in IT and generally on jobs that would be relevant over a long period of time, Information Security and a few others emerged, However I had conversations with a few people and luckily my first job landed me directly in Information Security.
 
 ### Was there something you wish you knew when you started?
@@ -67,6 +67,7 @@ Stay patient and hungry. As long as you have those two attributes, you will get 
 
 ### Do you have a mentor? How important is it to have a mentor in the infosec field?
 Yes I do have a few people whose experience I emulate and model my career after. Having a mentor will definitely open doors that you can leverage on including their relationship.
+
 *‘If I have seen any farther, it is by standing on the shoulders of those who have gone ahead of me’ – Abraham Lincoln.*
 
 ### What is the most underrated skill someone needs to have to excel in this path?
