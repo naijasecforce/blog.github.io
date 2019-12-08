@@ -18,7 +18,6 @@ Governance, risk and compliance (GRC) refers to a strategy for managing an organ
 * Should attempt to assess and mitigate the risks that may prevent this, (risk management) and
 * Should comply with relevant internal and external policies, regulations and laws (compliance).
 
-
 If you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/)
 
 Do enjoy the interview.
@@ -91,13 +90,11 @@ Nkiru devotes her craft to promoting Cybersecurity and Business continuity. When
 
  
 ### What would be an important piece of advice for someone who is considering going into Information Security GRC?
- 
 I would advise anyone with the opportunity to seize it, learn ferociously, and connect with people that drive you to be better. 
 Taking this advice early in my career enabled me to undertake a variety of exciting cybersecurity roles, such as - Information Assurance Analyst, Information security Manager, Business Continuity & Disaster recovery specialist, Security Awareness Training Specialist, Security Auditor, and People Hacker/ social engineer.It facilitated the discovery of my inclination for both Information/Cyber security and Business resilience.
 
  
 ### What’s the most underrated skill someone needs to have to excel in this path?
-
 That’s a hard one! The ability to be curious, confident, and possess excellent relationship management, and communication skills are underrated in the tech industry.
  
 ### What is the one book you’ve read that changed/impacted your life?
