@@ -108,11 +108,15 @@ I transfer knowledge through coaching, having short-sessions where I motivate th
 ### What is your advice for experienced people like yourself?
 I consider myself as someone who is still learning. However, here's my opinion: Use your power for others. Help a sister or brother up! As the case may be. Our community would be better if we support each other. 
 
-
-And just for laughs: some fun/quirky facts about you. 
+### Just for laughs: some fun/quirky facts about you. 
 I represented my elementary and secondary/high school in athletics competitions. I was in the relay team; and ran 100 meters and 200 meters races. However, Sweet bread happened! So I lost it. I still believe that soon, my glory days on the tracks would be restored. Additionally, I have other cool skills that I am hell-bent on retaining. I draw and sing very well (I’ll like to think so!)…Laughs. I got both skills from my Dad. Plus, in school, I was nicknamed 'Effizzi' for my drawing prowess.
  
+## About Author:
+Mosimilolu Odunsaya is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
 
+One of her goals is bridging the gender gap in cyber security by motivating women to join the Cyber Security Industry. She is also available for a chat/discussion if any lady needs it. 
+
+She enjoys travelling and blog about her experience on www.eattechtravel.com.
 
 
 
