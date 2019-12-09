@@ -10,18 +10,16 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-# Careeer Path Series - Governance, Risk and Compliance (GRC)
+# Careeer Path Series - Governance,Risk and Compliance (GRC)
 
-In our second series on career path, Mosimi interviewed cybersecurity professionals in Governance ,Risk and Compliance(GRC).If you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/).
+In our second series on career path, Mosimi interviewed cybersecurity professionals in Governance,Risk and Compliance(GRC).If you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/).
 
 GRC refers to a strategy for managing an organization's overall governance, enterprise risk management and compliance with regulations.[GRC](https://oxfordcomputertraining.com/glossary/grc/) are three disciplines that can help ensure an organization meets its objectives. An organization:
 * Needs processes to monitor the achievement of its goals (governance)
 * Should attempt to assess and mitigate the risks that may prevent this, (risk management) and
 * Should comply with relevant internal and external policies, regulations and laws (compliance).
 
-
-
-Do enjoy the interview.
+Do enjoy the interview 😊.
 
 ## Veronica Ikpa
 Veronica Ikpa is building a career in cybersecurity.She currently work in the managed security team in a broadband, ISP and communications company.She has perfromed information security audits with ISACA standards and global best practices and also risks assessment using COBIT 5.She currently work in implementing ISO27001 security controls and ensuring security policies and procedures are in line with ISO27001 and PCI-DSS standards.
@@ -109,7 +107,7 @@ I transfer knowledge through coaching, having short-sessions where I motivate th
 ### What is your advice for experienced people like yourself?
 I consider myself as someone who is still learning. However, here's my opinion: Use your power for others. Help a sister or brother up! As the case may be. Our community would be better if we support each other. 
 
-### Just for laughs: some fun/quirky facts about you. 
+### Just for laughs:Some fun/quirky facts about you. 
 I represented my elementary and secondary/high school in athletics competitions. I was in the relay team; and ran 100 meters and 200 meters races. However, Sweet bread happened! So I lost it. I still believe that soon, my glory days on the tracks would be restored. Additionally, I have other cool skills that I am hell-bent on retaining. I draw and sing very well (I’ll like to think so!)…Laughs. I got both skills from my Dad. Plus, in school, I was nicknamed 'Effizzi' for my drawing prowess.
  
 ## About Author:
