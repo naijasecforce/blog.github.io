@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Careeer Path Series - Governance,Risk and Compliance (GRC)"
+title:  "Careeer Path Series - Governance, Risk and Compliance (GRC)"
 author: Mosimilolu
 categories: [ Career Path, GRC ]
 tags: [Career path, naijasecforce]
@@ -10,12 +10,17 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-In our second series on career path, Mosimi interviewed cybersecurity professionals in Governance,Risk and Compliance(GRC).If you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/).
+In our second series on career path, Mosimi interviewed cybersecurity professionals in Governance, Risk and Compliance(GRC).If you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/).
+There are two main categories of career paths in cybersecurity- Strategic and tactical.
+* The Strategic Path focuses on areas such as Governance, Risk and Compliance (GRC), IT Audit, Security Frameworks e.g. ISO 27001/2, PCI-DSS etc; and 
+* The Tactical Path focuses on areas such as Vulnerability Assessment, Penetration Testing, Bug Bounty, IoT Assessments, Incident Response etc.
 
-GRC refers to a strategy for managing an organization's overall governance, enterprise risk management and compliance with regulations.[GRC](https://oxfordcomputertraining.com/glossary/grc/) are three disciplines that can help ensure an organization meets its objectives. An organization:
+GRC refers to a strategy for managing an organization's overall governance, enterprise risk management and compliance with regulations. [GRC](https://oxfordcomputertraining.com/glossary/grc/) are three disciplines that can help ensure an organization meets its objectives. An organization:
 * Needs processes to monitor the achievement of its goals (governance)
 * Should attempt to assess and mitigate the risks that may prevent this, (risk management) and
 * Should comply with relevant internal and external policies, regulations and laws (compliance).
+
+The great thing about the strategic path is that you don;t need to be "techie techie". In this role, you help to manage, plan, execute projects related to compliance, information risk management, control assurance and user security awareness. In addition, you help organisation to implement and certify controls for standards such as ISO 27001/2, PCI-DSS etc. 
 
 Do enjoy the interviews 😊.
 
@@ -48,7 +53,7 @@ Do a research on the role you are going for, and the role you want to be in the 
 No, I do not, but I have people I look up to. People who motivate me in this field. People like Rotimi, Sophie, Simi, Kess, Lilian and a couple of others. 
 
 
-## Damiloa Obasa
+## Damilola Obasa
 Damilola is an Information Security Consultant with some years of experience in certification of organizations to international best practices and standard. He possesses IT project management and business communication skills. 
 He is interested in learning, educating and collaborating with interested intelligent individuals and attending Silent Discos. 
 
