@@ -19,7 +19,7 @@ GRC refers to a strategy for managing an organization's overall governance, ente
 * Should attempt to assess and mitigate the risks that may prevent this, (risk management) and
 * Should comply with relevant internal and external policies, regulations and laws (compliance).
 
-Do enjoy the interview 😊.
+Do enjoy the interviews 😊.
 
 ## Veronica Ikpa
 Veronica Ikpa is building a career in cybersecurity.She currently work in the managed security team in a broadband, ISP and communications company.She has perfromed information security audits with ISACA standards and global best practices and also risks assessment using COBIT 5.She currently work in implementing ISO27001 security controls and ensuring security policies and procedures are in line with ISO27001 and PCI-DSS standards.
