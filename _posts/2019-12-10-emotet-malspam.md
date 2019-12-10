@@ -48,7 +48,7 @@ The binary gets saved as XXX.exe (where XXX is a number), in this case C:\Users\
 ![](../assets/images/emotet-malspam6.png)
 
 ## Indicators of Compromise
-Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily IOCs on Emotet.
+Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily update on IOCs for Emotet.
 ![](../assets/images/emotet-malspam7.png)
 
 ## Some Common Emotet Email Subjects we have seen;
