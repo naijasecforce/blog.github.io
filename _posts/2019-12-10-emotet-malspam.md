@@ -22,7 +22,8 @@ Emotet is not new as it was first recorded in 2014. Emotet is an extremely sophi
 According to an article by [AppAnyRun](https://any.run/malware-trends/emotet), Emotet can act like a worm and spread using local networks, which makes it extremely hard to clean-up. In addition to this, the Trojan has advanced persistence and anti-evasion mechanics, such as the ability to detect sandboxes and virtual machines with an option to generate false indicators to throw researches off. On top of that, the Trojan has a polymorphic design – meaning that it can change its code to bypass signature-based detection, making this cyber defense strategy useless against its’ attacks.Today Emotet is targeting governments, corporations, small businesses and individuals, focusing on Africa, Europe and America.
 
 ## Technical Description
-This new emotet malspam gets sent via email with a hyperlink (samples below).
+The new emotet malspam is sent via an email with a hyperlink (samples below).
+
 ![](../assets/images/emotet-malspam1.png)
 
 These emails pick an employee’s firstname, lastname, adds it to the sender’s name and also to the signature – and then spams other employees.
@@ -47,7 +48,7 @@ The binary gets saved as XXX.exe (where XXX is a number), in this case C:\Users\
 ![](../assets/images/emotet-malspam6.png)
 
 ## Indicators of Compromise
-Refer to this link for daily Emotet IOCs update.
+Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily IOCs on Emotet.
 ![](../assets/images/emotet-malspam7.png)
 
 ### Some common Emotet Email Subjects we have seen
