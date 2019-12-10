@@ -11,6 +11,7 @@ hidden: true
 rating: 4.5
 ---
 In our second series on career path, Mosimi interviewed cybersecurity professionals in Governance, Risk and Compliance(GRC).If you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/).
+
 There are two main categories of career paths in cybersecurity- Strategic and tactical.
 * The Strategic Path focuses on areas such as Governance, Risk and Compliance (GRC), IT Audit, Security Frameworks e.g. ISO 27001/2, PCI-DSS etc; and 
 * The Tactical Path focuses on areas such as Vulnerability Assessment, Penetration Testing, Bug Bounty, IoT Assessments, Incident Response etc.
