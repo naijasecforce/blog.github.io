@@ -25,8 +25,7 @@ The great thing about the strategic path is that you do not need to be "techie t
 
 Do enjoy the interviews 😊.
 
-## Veronica Ikpa
-Linkedin: linkedin.com/in/ikpaveronica
+## [Veronica Ikpa](linkedin.com/in/ikpaveronica)
 
 Veronica Ikpa is building a career in cybersecurity.She currently work in the managed security team in a broadband, ISP and communications company.She has perfromed information security audits with ISACA standards and global best practices and also risks assessment using COBIT 5.She currently work in implementing ISO27001 security controls and ensuring security policies and procedures are in line with ISO27001 and PCI-DSS standards.
 In her spare time, she create contents and drive conversations about technology through her blog [Digiconvos](http://digiconvos.com). She loves food,travelling, visiting new places, learning new things and exploring cultures.
@@ -118,7 +117,7 @@ I consider myself as someone who is still learning. However, here's my opinion: 
 I represented my elementary and secondary/high school in athletics competitions. I was in the relay team; and ran 100 meters and 200 meters races. However, Sweet bread happened! So I lost it. I still believe that soon, my glory days on the tracks would be restored. Additionally, I have other cool skills that I am hell-bent on retaining. I draw and sing very well (I’ll like to think so!)…Laughs. I got both skills from my Dad. Plus, in school, I was nicknamed 'Effizzi' for my drawing prowess.
  
 ## About Author:
-Mosimilolu Odusanya is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
+[Mosimilolu Odusanya](https://www.linkedin.com/in/mosimilolu-odusanya) is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
 
 One of her goals is bridging the gender gap in cyber security by motivating women to join the Cyber Security Industry. She is also available for a chat/discussion if any lady needs it. 
 
