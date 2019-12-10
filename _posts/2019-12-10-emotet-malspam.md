@@ -4,7 +4,7 @@ title:  "Emotet Malspam Q4, 2019 campaign."
 author: NaijaSecForce Threat Advisory Team (Rotimi Akinyele)
 categories: [ Malware, Hacking ]
 tags: [rotimi, naijasecforce, malware, threat]
-image: ../assets/images/malware-Jar-feature.jpg
+image: ../assets/images/emotet.jpg
 description: "Malware discovered."
 featured: true
 hidden: true
@@ -105,7 +105,7 @@ Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily update on IOC
 * Ensure that attachments and links in emails are sandboxed analysed before delivery to users.
 * Monitor emails for malicious links/attachments.
 * Monitor the network for any suspicious/anomalous activity
-* Consistently rollout cybersecurity awareness workshops
+* Consistently rollout cybersecurity awareness workshops/training.
 
 ## About the Author:
 ##### NaijaSecForce Threat Advisory Team - Rotimi Akinyele 
