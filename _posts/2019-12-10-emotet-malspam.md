@@ -51,7 +51,7 @@ The binary gets saved as XXX.exe (where XXX is a number), in this case C:\Users\
 Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily IOCs on Emotet.
 ![](../assets/images/emotet-malspam7.png)
 
-### Some common Emotet Email Subjects we have seen
+## Some Common Emotet Email Subjects we have seen;
 * Enppi Dualization, Engineering, Procurement and Construction of the egypt
 * Request For Quotation Contract#721134
 * Rejected transactions
@@ -95,7 +95,7 @@ Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily IOCs on Emote
 * Purchase Order
 * Payment Advice-BCS_ECS9522019111121380024_1206_952
 
-## How Do we Check if We are Currently Infected by Emotet and How Do We Mitigate this?
+## How Do We Check if We are Currently Infected by Emotet and How Do We Mitigate this?
 * Monitor inbound emails for impersonation attacks – i.e. your domain name is example.com and you have an employee who is john.doe@example.com . Check inbound emails and review emails that matches an internal user display name john.doe@xyz.com 
 * Perform an AV/EDR scan for all infected machines
 * Block all IOCs and carry out a threat sweep to see if IOCs exist within your environment – hashes, IPs, domains, filenames, etc.
@@ -109,7 +109,6 @@ Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily IOCs on Emote
 
 ## About the Author:
 ##### NaijaSecForce Threat Advisory Team - Rotimi Akinyele 
-
 NaijaSecForce Threat Advisory Team includes security experts and researchers responsible for analyzing and eliminating threats within Africa and also, investigating the global threat landscape. The team shares its research and insights with the industry at large to help promote a safer internet. 
 
 The NaijaSecForce Threat Advisory Team is under the body of the NaijaSecForce team which is the brain behind NaijaSecCon – a conference dubbed as Nigeria’s foremost technical cybersecurity conference which holds annually.
