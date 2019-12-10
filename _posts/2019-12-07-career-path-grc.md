@@ -12,7 +12,7 @@ rating: 4.5
 ---
 In our second series on career path, Mosimi interviewed cybersecurity professionals in Governance, Risk and Compliance(GRC).If you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/).
 
-There are two main categories of career paths in cybersecurity- Strategic and tactical.
+There are two main categories of career paths in cybersecurity- Strategic and Tactical.
 * The Strategic Path focuses on areas such as Governance, Risk and Compliance (GRC), IT Audit, Security Frameworks e.g. ISO 27001/2, PCI-DSS etc; and 
 * The Tactical Path focuses on areas such as Vulnerability Assessment, Penetration Testing, Bug Bounty, IoT Assessments, Incident Response etc.
 
@@ -21,7 +21,7 @@ GRC refers to a strategy for managing an organization's overall governance, ente
 * Should attempt to assess and mitigate the risks that may prevent this, (risk management) and
 * Should comply with relevant internal and external policies, regulations and laws (compliance).
 
-The great thing about the strategic path is that you don;t need to be "techie techie". In this role, you help to manage, plan, execute projects related to compliance, information risk management, control assurance and user security awareness. In addition, you help organisation to implement and certify controls for standards such as ISO 27001/2, PCI-DSS etc. 
+The great thing about the strategic path is that you do not need to be "techie techie". In this role, you help to manage, plan, execute projects related to compliance, information risk management, control assurance and user security awareness. In addition, you help organisation to implement and certify controls for standards such as ISO 27001/2, PCI-DSS etc. 
 
 Do enjoy the interviews 😊.
 
@@ -115,7 +115,7 @@ I consider myself as someone who is still learning. However, here's my opinion: 
 I represented my elementary and secondary/high school in athletics competitions. I was in the relay team; and ran 100 meters and 200 meters races. However, Sweet bread happened! So I lost it. I still believe that soon, my glory days on the tracks would be restored. Additionally, I have other cool skills that I am hell-bent on retaining. I draw and sing very well (I’ll like to think so!)…Laughs. I got both skills from my Dad. Plus, in school, I was nicknamed 'Effizzi' for my drawing prowess.
  
 ## About Author:
-Mosimilolu Odunsaya is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
+Mosimilolu Odusanya is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
 
 One of her goals is bridging the gender gap in cyber security by motivating women to join the Cyber Security Industry. She is also available for a chat/discussion if any lady needs it. 
 
