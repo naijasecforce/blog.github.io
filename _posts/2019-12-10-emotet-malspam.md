@@ -108,7 +108,7 @@ Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily update on IOC
 * Consistently rollout cybersecurity awareness workshops/training.
 
 ## About the Author:
-##NaijaSecForce Threat Advisory Team - Rotimi Akinyele 
+#### NaijaSecForce Threat Advisory Team - Rotimi Akinyele 
 
 NaijaSecForce Threat Advisory Team includes security experts and researchers responsible for analyzing and eliminating threats within Africa and also, investigating the global threat landscape. The team shares its research and insights with the industry at large to help promote a safer internet. 
 
