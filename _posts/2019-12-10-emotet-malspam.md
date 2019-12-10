@@ -84,7 +84,7 @@ Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily update on IOC
 * NEW PO#P21S-19110166
 * Please review and approve. Thank you.
 * NEW ORDER No. 00181356-1074
-8 PURCHASE ORDER \| T001407 \|
+* PURCHASE ORDER \| T001407 \|
 * RE: Request for Spare Parts price offer 1285
 * Attention: Outstanding Bill
 * Invoice  7077601
@@ -108,7 +108,8 @@ Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily update on IOC
 * Consistently rollout cybersecurity awareness workshops/training.
 
 ## About the Author:
-##### NaijaSecForce Threat Advisory Team - Rotimi Akinyele 
+##NaijaSecForce Threat Advisory Team - Rotimi Akinyele 
+
 NaijaSecForce Threat Advisory Team includes security experts and researchers responsible for analyzing and eliminating threats within Africa and also, investigating the global threat landscape. The team shares its research and insights with the industry at large to help promote a safer internet. 
 
 The NaijaSecForce Threat Advisory Team is under the body of the NaijaSecForce team which is the brain behind NaijaSecCon – a conference dubbed as Nigeria’s foremost technical cybersecurity conference which holds annually.
