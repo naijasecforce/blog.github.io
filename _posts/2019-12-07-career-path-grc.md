@@ -25,7 +25,7 @@ The great thing about the strategic path is that you do not need to be "techie t
 
 Do enjoy the interviews 😊.
 
-## [Veronica Ikpa](linkedin.com/in/ikpaveronica)
+## [Veronica Ikpa](https://ng.linkedin.com/in/ikpaveronica)
 
 Veronica Ikpa is building a career in cybersecurity.She currently work in the managed security team in a broadband, ISP and communications company.She has perfromed information security audits with ISACA standards and global best practices and also risks assessment using COBIT 5.She currently work in implementing ISO27001 security controls and ensuring security policies and procedures are in line with ISO27001 and PCI-DSS standards.
 In her spare time, she create contents and drive conversations about technology through her blog [Digiconvos](http://digiconvos.com). She loves food,travelling, visiting new places, learning new things and exploring cultures.
@@ -55,8 +55,7 @@ Do a research on the role you are going for, and the role you want to be in the 
 No, I do not, but I have people I look up to. People who motivate me in this field. People like Rotimi, Sophie, Simi, Kess, Lilian and a couple of others. 
 
 
-## Damilola Obasa
-Linkedin:linkedin.com/in/obasadamilola
+## [Damilola Obasa](https://ng.linkedin.com/in/obasadamilola)
 Damilola is an Information Security Consultant with some years of experience in certification of organizations to international best practices and standard. He possesses IT project management and business communication skills. 
 He is interested in learning, educating and collaborating with interested intelligent individuals and attending Silent Discos. 
 
