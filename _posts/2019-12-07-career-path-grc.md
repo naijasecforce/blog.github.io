@@ -87,7 +87,7 @@ For a newbie in Information Security, I would advise Security+ or SSCP. But the 
 ### Do you have any regrets so far?
 None so far. Everything has been going according to plan. To God be the glory.
 
-## Nkiru Aimienoho
+## [Nkiru Aimienoho](https://www.linkedin.com/in/nkirukaaimienoho)
 Nkiru Aimienoho (@InfoSecAmazon) is a Senior Manager Cybersecurity & Business resilience at PwC Nigeria. She has been involved in the provision of various cybersecurity and business resilience services in the various sectors of the economy both internationally and locally. Some of these sectors include banking and I.T services, energy, and telecommunications.
 
 Nkiru devotes her craft to promoting Cybersecurity and Business continuity. When she is not leading her team, she spends her time mentoring females in the tech industry. In her spare time she enjoys a good laugh with friends, watching her favorite comedy shows, or reading a good book.
