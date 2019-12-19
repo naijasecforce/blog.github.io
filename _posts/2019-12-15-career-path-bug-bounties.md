@@ -10,11 +10,14 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-On this career path series, Mosimi interviewed cybersecurity profesionals on bug bounty.Bug bounty is a tactical path in cybersecurity that gives security researchers an opourtunity to report vulnerablilites in softwares and application that can be exploited.Bug bounty programs allow the developers to discover and resolve bugs before the general public is aware of them, preventing incidents of widespread abuse.
+On this series on career path, Mosimi interviewed cybersecurity profesionals on bug bounty.Bug bounty is a tactical path in cybersecurity that gives security researchers an opportunity to report vulnerablilites in softwares and application that can be exploited.Bug bounty programs allow the developers to discover and resolve bugs before the general public is aware of them, preventing incidents of widespread abuse.
 
 There are various bug bounty platforms that offers bug bounty hunters an oppourtunity to get paid for finding security flaws in applications/softwares.This includes [Hackerone](https://www.hackerone.com/),[Bugcrowd](https://www.bugcrowd.com/),[facebook](https://web.facebook.com/whitehat?_rdc=1&_rdr), and [google project zero](https://googleprojectzero.blogspot.com/) among others.Bug bounty programs promotes responsible disclosure and it is powering millionnaire hackers globally. According to hackerOne, "a critical vulnerability solution can yield a hacker an average of $3,384."
 
 *"As long as there are software vulnerabilities, there will be millionaire hackers!"*- Mårten Mickos(CEO HackerOne)
+
+Enjoy the interviews and do check out our preivious series on [Security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/) and [Governance, Risk and Compliance(GRC)](https://blog.naijasecforce.com/career-path-grc/).
+
 
 ## [Francis Odeke](https://ng.linkedin.com/in/francisodeke?trk=author_mini-profile_title)
 Francis is a cyber security consultant with one of the big 4 firm, with vast experience in penetration testing. He derives joy from hacking systems. When he was a child, he wanted to be a medical doctor but then, he grew up. :)
