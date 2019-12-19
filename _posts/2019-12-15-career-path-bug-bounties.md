@@ -10,7 +10,7 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-On this series on career path, Mosimi interviewed cybersecurity profesionals on bug bounty.Bug bounty is a tactical path in cybersecurity that gives security researchers an opportunity to report vulnerablilites in softwares and application that can be exploited.Bug bounty programs allow the developers to discover and resolve bugs before the general public is aware of them, preventing incidents of widespread abuse.
+On this career path series, Mosimi interviewed cybersecurity profesionals on bug bounty.Bug bounty is a tactical path in cybersecurity that gives security researchers an opportunity to report vulnerablilites in softwares and application that can be exploited.Bug bounty programs allow the developers to discover and resolve bugs before the general public is aware of them, preventing incidents of widespread abuse.
 
 There are various bug bounty platforms that offers bug bounty hunters an oppourtunity to get paid for finding security flaws in applications/softwares.This includes [Hackerone](https://www.hackerone.com/),[Bugcrowd](https://www.bugcrowd.com/),[facebook](https://web.facebook.com/whitehat?_rdc=1&_rdr), and [google project zero](https://googleprojectzero.blogspot.com/) among others.Bug bounty programs promotes responsible disclosure and it is powering millionnaire hackers globally. According to hackerOne, "a critical vulnerability solution can yield a hacker an average of $3,384."
 
