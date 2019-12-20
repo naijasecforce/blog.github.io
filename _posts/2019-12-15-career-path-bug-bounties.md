@@ -10,27 +10,30 @@ featured: true
 hidden: true
 rating: 4.5
 ---
+
+On this series on career path, Mosimi interviewed cybersecurity profesionals on bug bounty. Bug bounty is a tactical path in cybersecurity that gives security researchers an opportunity to report vulnerablilites in softwares and application that can be exploited. Bug bounty programs allow the developers to discover and resolve bugs before the general public is aware of them, preventing incidents of widespread abuse.
+
 On this career path series, Mosimi interviewed cybersecurity profesionals on bug bounty.Bug bounty is a tactical path in cybersecurity that gives security researchers an opportunity to report vulnerablilites in softwares and application that can be exploited.Bug bounty programs allow the developers to discover and resolve bugs before the general public is aware of them, preventing incidents of widespread abuse.
 
-There are various bug bounty platforms that offers bug bounty hunters an oppourtunity to get paid for finding security flaws in applications/softwares.This includes [Hackerone](https://www.hackerone.com/),[Bugcrowd](https://www.bugcrowd.com/),[facebook](https://web.facebook.com/whitehat?_rdc=1&_rdr), and [google project zero](https://googleprojectzero.blogspot.com/) among others.Bug bounty programs promotes responsible disclosure and it is powering millionnaire hackers globally. According to hackerOne, "a critical vulnerability solution can yield a hacker an average of $3,384."
 
-*"As long as there are software vulnerabilities, there will be millionaire hackers!"*- Mårten Mickos(CEO HackerOne)
+There are various bug bounty platforms that offers bug bounty hunters an oppourtunity to get paid for finding security flaws in applications/softwares. This includes [Hackerone](https://www.hackerone.com/), [Bugcrowd](https://www.bugcrowd.com/), [Facebook](https://web.facebook.com/whitehat?_rdc=1&_rdr), and [Google project zero](https://googleprojectzero.blogspot.com/) among others. Bug bounty programs promotes responsible disclosure and it is powering millionnaire hackers globally. According to HackerOne, "a critical vulnerability solution can yield a hacker an average of $3,384."
 
-Enjoy the interviews and do check out our preivious series on [Security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/) and [Governance, Risk and Compliance(GRC)](https://blog.naijasecforce.com/career-path-grc/).
+*"As long as there are software vulnerabilities, there will be millionaire hackers!"*- Mårten Mickos (CEO HackerOne)
+
+Enjoy the interviews and do check out our previous series on [Security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/) and [Governance, Risk and Compliance(GRC)](https://blog.naijasecforce.com/career-path-grc/).
 
 
 ## [Francis Odeke](https://ng.linkedin.com/in/francisodeke?trk=author_mini-profile_title)
 Francis is a cyber security consultant with one of the big 4 firm, with vast experience in penetration testing. He derives joy from hacking systems. When he was a child, he wanted to be a medical doctor but then, he grew up. :)
 
 ### What attracted you to this career path?
-I have always been intrigued by the craftiness involved in hacking. watching Technology driven American movies as a  young child, exposed me to the facinating ideology that no matter how advanced a system is developed to be, it can be broken into. So I decided to go with the path of breaking into systems (hacking) to improve system security.
+I have always been intrigued by the craftiness involved in hacking. Watching Technology driven American movies as a  young child, exposed me to the facinating ideology that no matter how advanced a system is developed to be, it can be broken into. So I decided to go with the path of breaking into systems (hacking) to improve system security.
 
 ### How has your first few years in bug bounty been for you?
 Bug bounty is like mathematics, if you solve a problem you would be very happy and moltivated. If not, you become frustrated. I was met with large frustration as hunting bugs can be quite challenging and time consuming.
 
 ### What would you wish someone had told you before going into this field? 
-I wish someone had told me not to be jack of all trade and master of none! The trick to bug bounty is to perfect testing for one or two vulnerailities, perfect the technique and limit your hunting to just those few vulnerabilities.
-Focus more on subdomains; the main domains are mostly where everyone hunts at and where the organisation's resources and support are channelled to, which decreases your chances of actually catching a bug.
+I wish someone had told me not to be jack of all trade and master of none! The trick to bug bounty is to perfect testing for one or two vulnerabilities, perfect the technique and limit your hunting to just those few vulnerabilities. Focus more on subdomains; the main domains are mostly where everyone hunts at and where the organisation's resources and support are channelled to, which decreases your chances of actually catching a bug.
 
 ### What would be an important piece of advice for someone who is considering going into your career path?
 * Get this tutorial  on Udemy "Offensive Bug Bounty Hunter by Vikash Chaudhary"
