@@ -31,15 +31,19 @@ These emails pick an employee’s firstname, lastname, adds it to the sender’s
 In some other cases, it picks a compromised email address from a contact, goes through email exchanges and then replies to the existing email chain with the hyperlink or the malicious word document.
 
 Upon clicking the URL embedded in the email, a word document gets downloaded. In this case, Invoice-XXXXX.docx
+
 ![](../assets/images/emotet-malspam2.png)
 
 Opening the word document, you get presented with this;
+
 ![](../assets/images/emotet-malspam3.png)
 
 When you click on “Enable Editing”, a powershell script runs in the background.
+
 ![](../assets/images/emotet-malspam4.png)
 
 The powershell script runs and downloads a binary from 5 different URLs as per below;
+
 ![](../assets/images/emotet-malspam5.png)
 
 The binary gets saved as XXX.exe (where XXX is a number), in this case C:\Users\admin\938.exe which then gets renamed as serialfunc.exe and gets saved to C:\Users\admin\AppData\Local\serialfunc\serialfunc.exe.It then starts communicating with CnC servers.
@@ -108,7 +112,7 @@ Refer to [cryptolaemus](https://paste.cryptolaemus.com/) for daily update on IOC
 * Consistently rollout cybersecurity awareness workshops/training.
 
 ## About the Author:
-#### NaijaSecForce Threat Advisory Team - Rotimi Akinyele 
+##### NaijaSecForce Threat Advisory Team - Rotimi Akinyele 
 
 NaijaSecForce Threat Advisory Team includes security experts and researchers responsible for analyzing and eliminating threats within Africa and also, investigating the global threat landscape. The team shares its research and insights with the industry at large to help promote a safer internet. 
 

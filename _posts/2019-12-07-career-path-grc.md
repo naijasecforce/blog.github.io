@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Career Path Series - GRC"
+title:  "Careeer Path Series - Governance, Risk and Compliance (GRC)"
 author: Mosimilolu
 categories: [ Career Path, GRC ]
 tags: [Career path, naijasecforce]
@@ -10,18 +10,23 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-# Careeer Path Series - Governance,Risk and Compliance (GRC)
+In our second series on career path, Mosimi interviewed cybersecurity professionals in Governance, Risk and Compliance(GRC).If you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/).
 
-In our second series on career path, Mosimi interviewed cybersecurity professionals in Governance,Risk and Compliance(GRC).If you missed it, check out our first series on [security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/).
+There are two main categories of career paths in cybersecurity- Strategic and Tactical.
+* The Strategic Path focuses on areas such as Governance, Risk and Compliance (GRC), IT Audit, Security Frameworks e.g. ISO 27001/2, PCI-DSS etc; and 
+* The Tactical Path focuses on areas such as Vulnerability Assessment, Penetration Testing, Bug Bounty, IoT Assessments, Incident Response etc.
 
-GRC refers to a strategy for managing an organization's overall governance, enterprise risk management and compliance with regulations.[GRC](https://oxfordcomputertraining.com/glossary/grc/) are three disciplines that can help ensure an organization meets its objectives. An organization:
+GRC refers to a strategy for managing an organization's overall governance, enterprise risk management and compliance with regulations. [GRC](https://oxfordcomputertraining.com/glossary/grc/) are three disciplines that can help ensure an organization meets its objectives. An organization:
 * Needs processes to monitor the achievement of its goals (governance)
 * Should attempt to assess and mitigate the risks that may prevent this, (risk management) and
 * Should comply with relevant internal and external policies, regulations and laws (compliance).
 
-Do enjoy the interview 😊.
+The great thing about the strategic path is that you do not need to be "techie techie". In this role, you help to manage, plan, execute projects related to compliance, information risk management, control assurance and user security awareness. In addition, you help organisation to implement and certify controls for standards such as ISO 27001/2, PCI-DSS etc. 
 
-## Veronica Ikpa
+Do enjoy the interviews 😊.
+
+## [Veronica Ikpa](https://ng.linkedin.com/in/ikpaveronica)
+
 Veronica Ikpa is building a career in cybersecurity.She currently work in the managed security team in a broadband, ISP and communications company.She has perfromed information security audits with ISACA standards and global best practices and also risks assessment using COBIT 5.She currently work in implementing ISO27001 security controls and ensuring security policies and procedures are in line with ISO27001 and PCI-DSS standards.
 In her spare time, she create contents and drive conversations about technology through her blog [Digiconvos](http://digiconvos.com). She loves food,travelling, visiting new places, learning new things and exploring cultures.
 
@@ -50,7 +55,7 @@ Do a research on the role you are going for, and the role you want to be in the 
 No, I do not, but I have people I look up to. People who motivate me in this field. People like Rotimi, Sophie, Simi, Kess, Lilian and a couple of others. 
 
 
-## Damiloa Obasa
+## [Damilola Obasa](https://ng.linkedin.com/in/obasadamilola)
 Damilola is an Information Security Consultant with some years of experience in certification of organizations to international best practices and standard. He possesses IT project management and business communication skills. 
 He is interested in learning, educating and collaborating with interested intelligent individuals and attending Silent Discos. 
 
@@ -82,7 +87,7 @@ For a newbie in Information Security, I would advise Security+ or SSCP. But the 
 ### Do you have any regrets so far?
 None so far. Everything has been going according to plan. To God be the glory.
 
-## Nkiru Aimienoho
+## [Nkiru Aimienoho](https://www.linkedin.com/in/nkirukaaimienoho)
 Nkiru Aimienoho (@InfoSecAmazon) is a Senior Manager Cybersecurity & Business resilience at PwC Nigeria. She has been involved in the provision of various cybersecurity and business resilience services in the various sectors of the economy both internationally and locally. Some of these sectors include banking and I.T services, energy, and telecommunications.
 
 Nkiru devotes her craft to promoting Cybersecurity and Business continuity. When she is not leading her team, she spends her time mentoring females in the tech industry. In her spare time she enjoys a good laugh with friends, watching her favorite comedy shows, or reading a good book.
@@ -111,7 +116,7 @@ I consider myself as someone who is still learning. However, here's my opinion: 
 I represented my elementary and secondary/high school in athletics competitions. I was in the relay team; and ran 100 meters and 200 meters races. However, Sweet bread happened! So I lost it. I still believe that soon, my glory days on the tracks would be restored. Additionally, I have other cool skills that I am hell-bent on retaining. I draw and sing very well (I’ll like to think so!)…Laughs. I got both skills from my Dad. Plus, in school, I was nicknamed 'Effizzi' for my drawing prowess.
  
 ## About Author:
-Mosimilolu Odunsaya is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
+[Mosimilolu Odusanya](https://www.linkedin.com/in/mosimilolu-odusanya) is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
 
 One of her goals is bridging the gender gap in cyber security by motivating women to join the Cyber Security Industry. She is also available for a chat/discussion if any lady needs it. 
 
