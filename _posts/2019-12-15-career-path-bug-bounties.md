@@ -23,7 +23,7 @@ Enjoy the interviews and do check out our previous series on [Security assessmen
 Francis is a cyber security consultant with one of the big 4 firm, with vast experience in penetration testing. He derives joy from hacking systems. When he was a child, he wanted to be a medical doctor but then, he grew up. :)
 
 ### What attracted you to this career path?
-I have always been intrigued by the craftiness involved in hacking. Watching Technology driven American movies as a  young child, exposed me to the facinating ideology that no matter how advanced a system is developed to be, it can be broken into. So I decided to go with the path of breaking into systems (hacking) to improve system security.
+I have always been intrigued by the craftiness involved in hacking. Watching technology driven American movies as a  young child, exposed me to the facinating ideology that no matter how advanced a system is developed to be, it can be broken into. So I decided to go with the path of breaking into systems (hacking) to improve system security.
 
 ### How has your first few years in bug bounty been for you?
 Bug bounty is like mathematics, if you solve a problem you would be very happy and moltivated. If not, you become frustrated. I was met with large frustration as hunting bugs can be quite challenging and time consuming.
