@@ -14,7 +14,7 @@ On this series on career path, Mosimi interviewed cybersecurity profesionals on 
 
 There are various bug bounty platforms that offers bug bounty hunters an oppourtunity to get paid for finding security flaws in applications/softwares. This includes [Hackerone](https://www.hackerone.com/), [Bugcrowd](https://www.bugcrowd.com/), [Facebook](https://web.facebook.com/whitehat?_rdc=1&_rdr), and [Google project zero](https://googleprojectzero.blogspot.com/) among others. Bug bounty programs promotes responsible disclosure and it is powering millionnaire hackers globally. According to HackerOne, "a critical vulnerability solution can yield a hacker an average of $3,384."
 
-*"As long as there are software vulnerabilities, there will be millionaire hackers!"*- Mårten Mickos (CEO HackerOne)
+*"As long as there are software vulnerabilities, there will be millionaire hackers!"*- Mårten Mickos (CEO HackerOne).
 
 Enjoy the interviews and do check out our previous series on [Security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/) and [Governance, Risk and Compliance(GRC)](https://blog.naijasecforce.com/career-path-grc/).
 
