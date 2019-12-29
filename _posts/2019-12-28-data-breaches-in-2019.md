@@ -1,0 +1,4 @@
+## Introduction
+
+Many organisations today are leveraging the cloud to transform their business and help with cost reduction. However, the adoption of cloud technology introduces new risks, security and privacy concerns. One of these risks introduced are Data Breaches. There is an increasing number of exposed databases containing Personal Identifiable Information (“PII”) and Personal Health Information (“PHI”) and even sensitive company data (more details later on). 
+Since the enforcement of the EU’s General Data Protection Regulation (“GDPR”), many other countries such as Canada, Brazil, India have begun rolling out similar data protection regulations to ensure higher data security security and giving individuals rights to their personal data. This has also helped with transparency around security incidents and data breaches. However, more work still needs to be done. 
