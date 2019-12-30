@@ -70,26 +70,26 @@ These are information that can be classified as proprietary or sensitive company
 2.	To see the full data, right click Drillthrough  —  Full Data.
 
 ## Interesting Cases
-1. **The Unknown Owner** 
+1. **The Unknown Owner**   
 In October, [2 Security Researchers](https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/) found an open (no authentication or password was required to access or download the data) Elasticsearch server containing 4 billion user accounts amounting to about 4TB of data — more than 1.2 billion unique people scraped from social media sources such as Facebook, LinkedIn. It also contained details like names, email addresses, phone numbers, Twitter and, Github URLs.
 In addition, the datasets appeared to be scrapped from 2 data enriching companies — People Data Labs (“PDL”) and OxyData.io (“OXY”). A data enrichment is a process of enhancing or improving or enriching a piece of information (e.g. name or username) with data from other sources. Even though the data seemed to come from both sources (PDL and OXY), the owner of the server was unknown. It raises the concern of who is liability for this breach — PDL/OXY or their customer? There is an argument that the data was “publicily available information” however, nobody consented to their information being used liked this (I certainly did not). This case is similar to the Cambridge Analytica Scandal and the Exactis Data Breach. 
 
-2. **Exposed Internal IT Data**
+2. **Exposed Internal IT Data**  
 In July, a [Security Researcher](https://rainbowtabl.es/2019/07/31/honda-motor-company-leak/) found an open (no authentication or password was required to access or download the data) Elasticsearch server containing 134 million records amounting to about 40GB of data. More data records were being added to the database.
 An analysis of the database revealed that it contained data from Honda’s global employee machines. It contained details about the employee’s personal data (name, department, account name, user name etc.), machine (patches applied, IP Address, MAC Address, endpoint security status etc.). Imagine a malicious individual had access to such data.
 
-3. **Third Party Risk**
+3. **Third Party Risk**  
 This case is said to be the largest medical breach in 2019. In February, a security research company identified some PII being sold on the dark web. An analysis of the data revealed it may have been stolen from American Medical Collection Agency (“AMCA”). AMCA handled patient collections for a number of healthcare providers all of whom have been affected by the data breach. This included — Quest Diagnostics (11.9m patients) and LabCorp (7.7m patients). Currently, AMCA has filed for bankruptcy due to expenses related to the breach.
 Managing third party security risk is very important as it allows you review how your vendors/contractors/service providers are managing their risks including your data. The following must be assessed — 
 *	Compliance with regulations such as GDPR, PCI-DSS;
 *	Business Continuity and Disaster Recovery Plans; and 
 *	Security posture — security incidents , penetration test and vulnerability assessment carried out, security controls in place etc.
 
-4. **Another Unknown Owner with Government Data**
+4. **Another Unknown Owner with Government Data**  
 In August, a [Security Researcher](https://www.wizcase.com/blog/chile-leak-research/) found an open (no authentication or password was required to access or download the data) Elasticsearch server containing PII for over 14m Chilean residents above the age of 17. Chile is a South American country with a population of about 19m citizens according to this [report](https://www.worldometers.info/world-population/chile-population/).  
 It contained details such as name, address, RUT (Rol Único Tributario — Chile’s National Identification Number and Tax ID number) etc. Although the Chilean Electoral Service has confirmed the authenticity of the data, the owner of the database is unknown. This data can be very valuable in the wrong hands.
 
-5. **Hackers got there first**
+5. **Hackers got there first**  
 In September, 2 [Security Researchers](https://www.vpnmentor.com/blog/report-bat-romania-leak/) found an unsecured server related to YOUniverse.ro, a Romanian web platform owned by British American Tobacco (“BAT”). The leaked server contained data amounting to about 352GB of data relating to Romanian residents. However, by the time the unsecured server was discovered by the researchers, the server had been compromised by Ransomware. The hackers responsible had copied some of the sensitive data hosted on the server and were threatening to delete the data if their demands (bitcoin payment worth 0.1BTC) weren’t met. Daily logs which were still leaked by the server and weren’t affected by the ransomware attack contained PII such as name, email, phone number, cigarette and tobacco product preferences etc.
 
 ### How do Data Breaches Affect Me (as a user/consumer)?
