@@ -60,6 +60,11 @@ These are information that can be classified as protected health information (�
 5. **Company Data** 
 These are information that can be classified as proprietary or sensitive company data and PII of employees such as such as username, host name, admin login credentials, endpoint security status etc. 
 
+# Data Analytics — Data Breaches in 2019
+
+<iframe width=”933" height=”700" src=”https://app.powerbi.com/view?r=eyJrIjoiOTRiYTI3NTEtZmRmNS00MWZkLWFkOTYtMjVjZjNmNGU1N2M4IiwidCI6IjY5MDUwYzk0LTI5NmItNDYzYS04ZjBlLTZlMjZhNDNhOWI3YSIsImMiOjl9" frameborder=”0" allowFullScreen=”true”></iframe>
+
+
 ## Important Details
 1.	Some  Data Compromised have been represented as 1. This is because for some breaches, the number of records compromised were not indicated or were indicated in terms of the size of the records compromised.
 2.	To see the full data, right click Drillthrough  —  Full Data.
