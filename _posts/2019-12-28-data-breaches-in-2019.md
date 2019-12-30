@@ -1,17 +1,17 @@
 ## Introduction
 
-Many organisations today are leveraging the cloud to transform their business and help with cost reduction. However, the adoption of cloud technology introduces new risks, security and privacy concerns. One of these risks introduced are Data Breaches. There is an increasing number of exposed databases containing Personal Identifiable Information (“PII”) and Personal Health Information (“PHI”) and even sensitive company data (more details later on). 
+Many organisations today are leveraging the cloud to transform their business and help with cost reduction. However, the adoption of cloud technology introduces new risks, security and privacy concerns. One of these risks introduced are Data Breaches. There is an increasing number of exposed databases containing Personal Identifiable Information (“PII”) and Personal Health Information (“PHI”) and even sensitive company data (*more details later on*). 
 
 Since the enforcement of the EU’s General Data Protection Regulation (“GDPR”), many other countries such as Canada, Brazil, India have begun rolling out similar data protection regulations to ensure higher data security security and giving individuals rights to their personal data. This has also helped with transparency around security incidents and data breaches. However, more work still needs to be done.
 
-This data analysis is an update of the [Data Breaches in 2018 — Infographics](https://link.medium.com/65QgqceFB2). However, the data visualization is now interactive(really excited about this). Data research, gathering, analysis and visualization done by me.
+This data analysis is an update of the [Data Breaches in 2018 — Infographics](https://link.medium.com/65QgqceFB2). However, the data visualization is now interactive(*really excited about this*). Data research, gathering, analysis and visualization done by me.
 The data analysis here considers the following factors:
 * Method of compromise;
 * Attack vector; and
 * Data Sensitivity.
 
 ### Method of Compromise
-1. Oops!
+1. **Oops!** <p>&nbsp;</p>
 These are data breaches that occurred due to some lapse in security processes or procedures. Sample cases include [FEMA](https://www.oig.dhs.gov/sites/default/files/assets/2019-03/OIG-19-32-Mar19.pdf), [Orvis](https://krebsonsecurity.com/2019/11/retailer-orvis-com-leaked-hundreds-of-internal-passwords-on-pastebin/), [Sephora](https://www.zdnet.com/article/sephora-data-breach-hits-southeast-asia-and-anz-customers/) etc. 
 
 2. Hacked
