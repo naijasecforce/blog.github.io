@@ -81,8 +81,7 @@ Managing third party security risk is very important as it allows you review how
 *	Security posture — security incidents , penetration test and vulnerability assessment carried out, security controls in place etc.
 
 4. **Another Unknown Owner with Government Data**
-In August, a [Security Researcher](https://www.wizcase.com/blog/chile-leak-research/) found an open (no authentication or password was required to access or download the data) Elasticsearch server containing PII for over 14m Chilean residents above the age of 17. Chile is a South American country with a population of about 19m citizens according to this [report](https://www.worldometers.info/world-population/chile-population/). 
-
+In August, a [Security Researcher](https://www.wizcase.com/blog/chile-leak-research/) found an open (no authentication or password was required to access or download the data) Elasticsearch server containing PII for over 14m Chilean residents above the age of 17. Chile is a South American country with a population of about 19m citizens according to this [report](https://www.worldometers.info/world-population/chile-population/).  
 It contained details such as name, address, RUT (Rol Único Tributario — Chile’s National Identification Number and Tax ID number) etc. Although the Chilean Electoral Service has confirmed the authenticity of the data, the owner of the database is unknown. This data can be very valuable in the wrong hands.
 
 5. **Hackers got there first**
