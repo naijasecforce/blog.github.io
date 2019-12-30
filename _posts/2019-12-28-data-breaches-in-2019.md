@@ -41,26 +41,27 @@ These are data breaches that are caused third parties such as Vendors, IT Contra
 
 ## Attack Vectors
 These describe in more detail, the cause of compromise e.g. patch management, phishing attack, SQL injection, malicious scripts, exposed database etc. 
-Data Sensitivity
+
+## Data Sensitivity
 The other factor considered is the sensitivity of compromised data during that breach. Here, the data sensitivity has been classified into 5 categories:
 
-1. Online Information
+1. **Online Information**  
 These are details such as email address, usernames, passwords, gender etc.
 
-2. Personal Details
+2. **Personal Details**  
 These are information that can be classified as personally identifiable information (“PII”) such as name, address, phone numbers, location, devices, IP address etc.
 
-3. Financial Information
+3. **Financial Information**  
 These are information that are related to financial data such as credit card information, (un)hashed credit card details, payment card type etc.
 
-4. Health Records
+4. **Health Records**  
 These are information that can be classified as protected health information (“PHI”) such as medical record numbers, medical records, health insurance details, health plan beneficiaries, biometric identifiers etc.
 
-5. Company Data 
+5. **Company Data** 
 These are information that can be classified as proprietary or sensitive company data and PII of employees such as such as username, host name, admin login credentials, endpoint security status etc. 
 
 ## Important Details
-1.	Some # Data Compromised have been represented as 1. This is because for some breaches, the number of records compromised were not indicated or were indicated in terms of the size of the records compromised.
+1.	Some  Data Compromised have been represented as 1. This is because for some breaches, the number of records compromised were not indicated or were indicated in terms of the size of the records compromised.
 2.	To see the full data, right click Drillthrough  —  Full Data.
 
 ## Interesting Cases
