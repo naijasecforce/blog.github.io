@@ -62,7 +62,7 @@ These are information that can be classified as proprietary or sensitive company
 
 # Data Analytics — Data Breaches in 2019
 
-<iframe width=”933" height=”700" src=”https://app.powerbi.com/view?r=eyJrIjoiOTRiYTI3NTEtZmRmNS00MWZkLWFkOTYtMjVjZjNmNGU1N2M4IiwidCI6IjY5MDUwYzk0LTI5NmItNDYzYS04ZjBlLTZlMjZhNDNhOWI3YSIsImMiOjl9" frameborder=”0" allowFullScreen=”true”></iframe>
+<iframe width="533" height="250" src="https://app.powerbi.com/view?r=eyJrIjoiOTRiYTI3NTEtZmRmNS00MWZkLWFkOTYtMjVjZjNmNGU1N2M4IiwidCI6IjY5MDUwYzk0LTI5NmItNDYzYS04ZjBlLTZlMjZhNDNhOWI3YSIsImMiOjl9" frameborder="0" allowFullScreen="true" markdown="1"></iframe>
 
 
 ## Important Details
