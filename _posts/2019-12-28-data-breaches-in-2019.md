@@ -111,7 +111,7 @@ In September, 2 [Security Researchers](https://www.vpnmentor.com/blog/report-bat
 *	Avoid the internet.
 
 ## Summary
-The number of data breaches and known amount of data compromised is not comprehensive. My prediction for 2020 is that we would see more data breaches — the worst is yet to come. However, I think more countries and territories would rollout data protection regulations and laws. The California Consumer Privacy Act (“CCPA”) became enforceable January 1<sub>st</sub>, 2020 for residents of California. Brazil’s General Data Protection Law will come into effect August 2020 and Thailand’s Personal Data Protection Act comes into effect May 2020. 
+The number of data breaches and known amount of data compromised is not comprehensive. My prediction for 2020 is that we would see more data breaches — the worst is yet to come. However, I think more countries and territories would rollout data protection regulations and laws. The California Consumer Privacy Act (“CCPA”) became enforceable January 1<sup>st</sup>, 2020 for residents of California. Brazil’s General Data Protection Law will come into effect August 2020 and Thailand’s Personal Data Protection Act comes into effect May 2020. 
 
 Thanks to Nurudeen Odeshina and Tobi Williams (he owns [Resagratia](https://www.linkedin.com/company/resagratia/about/), a Data Analytics Company) for the review and help with PowerBI respectively. 
 
