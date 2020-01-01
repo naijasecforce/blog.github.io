@@ -25,7 +25,7 @@ The data analysis here considers the following factors:
 
 ## Method of Compromise
 1. **Oops!**  
-These are data breaches that occurred due to some lapse in security processes or procedures. Sample cases include [FEMA](https://www.oig.dhs.gov/sites/default/files/assets/2019-03/OIG-19-32-Mar19.pdf), [Orvis](https://krebsonsecurity.com/2019/11/retailer-orvis-com-leaked-hundreds-of-internal-passwords-on-pastebin/), [Sephora](https://www.zdnet.com/article/sephora-data-breach-hits-southeast-asia-and-anz-customers/) etc. 
+These are data breaches that occurred due to some lapse in security processes or procedures. Sample cases include [The UK Cabinet Office](https://www.thetimes.co.uk/article/home-addresses-of-honours-recipients-leaked-in-security-blunder-vvz5f7678),[FEMA](https://www.oig.dhs.gov/sites/default/files/assets/2019-03/OIG-19-32-Mar19.pdf), [Orvis](https://krebsonsecurity.com/2019/11/retailer-orvis-com-leaked-hundreds-of-internal-passwords-on-pastebin/)etc. 
 
 2. **Hacked**  
 These are data breaches that occurred from someone attacking and/or gaining unauthorised access. Sample cases include [Capital One](https://www.businessinsider.com/capital-one-data-hacked-by-seattle-woman-affecting-millions-2019-7), [Macy](https://techcrunch.com/2019/11/19/macys-said-hackers-stole-customer-credit-cards-again/), [Hookers.nl](https://www.forbes.com/sites/thomasbrewster/2019/10/10/dutch-prostitution-site-hookersnl-hacked--250000-users-data-leaked/#372a098922f8) etc. 
@@ -66,12 +66,15 @@ These are information that can be classified as proprietary or sensitive company
 
 
 ## Important Details
-1.	Some  Data Compromised have been represented as 1. This is because for some breaches, the number of records compromised were not indicated or were indicated in terms of the size of the records compromised.
-2.	To see the full data, right click Drillthrough  —  Full Data.
+1.	Some # Data Compromised have been represented as 1. This is because for some breaches, the number of records compromised were not indicated or were indicated in terms of the size of the records compromised.
+2.	To see the full data, right click *Drillthrough*  —  Full Data.
+3.	The Data visualization is best enjoyed on a laptop or mobile phone (in landscape mode).
+
 
 ## Interesting Cases
 1. **The Unknown Owner**   
-In October, [2 Security Researchers](https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/) found an open (no authentication or password was required to access or download the data) Elasticsearch server containing 4 billion user accounts amounting to about 4TB of data — more than 1.2 billion unique people scraped from social media sources such as Facebook, LinkedIn. It also contained details like names, email addresses, phone numbers, Twitter and, Github URLs.
+In October, [2 Security Researchers](https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/) found an open (no authentication or password was required to access or download the data) Elasticsearch server containing about 4TB of data — more than 1.2 billion unique people scraped from social media sources such as Facebook, LinkedIn. It also contained details like names, email addresses, phone numbers, Twitter and, Github URLs.
+
 In addition, the datasets appeared to be scrapped from 2 data enriching companies — People Data Labs (“PDL”) and OxyData.io (“OXY”). A data enrichment is a process of enhancing or improving or enriching a piece of information (e.g. name or username) with data from other sources. Even though the data seemed to come from both sources (PDL and OXY), the owner of the server was unknown. It raises the concern of who is liability for this breach — PDL/OXY or their customer? There is an argument that the data was “publicily available information” however, nobody consented to their information being used liked this (I certainly did not). This case is similar to the Cambridge Analytica Scandal and the Exactis Data Breach. 
 
 2. **Exposed Internal IT Data**  
@@ -94,8 +97,6 @@ In September, 2 [Security Researchers](https://www.vpnmentor.com/blog/report-bat
 
 ### How do Data Breaches Affect Me (as a user/consumer)?
 
-The thing is that there is almost nothing you can do about it. We sign up on different platforms and services, most of which we are very reliant on and there is no company that is 100% secure.
-Now that we have gotten that out of the way, what can you do?
 * Get a password manager which allows you to have different and secure passwords for different sites;
 * Enable Multi-factor authentication (“MFA”);
 *	Use a Virtual Private Network (“VPN”);
@@ -104,10 +105,16 @@ Now that we have gotten that out of the way, what can you do?
 *	Check senders email addresses when you receive suspicious emails;
 *	Don’t click suspicious links or download files from unknown senders;
 *	Don’t share personal information on social media;
+* We sign up on different platforms and services, most of which we are very reliant on and there is no company that is 100% secure.
+
+#### Now that we have gotten that out of the way, what can you actually do to prevent a breach? 
 *	Avoid the internet.
 
 ## Summary
-The number of data breaches and known amount of data compromised is not comprehensive. My prediction for 2020 is that we would see more data breaches — the worst is yet to come. However, I think more countries and territories would rollout data protection regulations and laws. 
+The number of data breaches and known amount of data compromised is not comprehensive. My prediction for 2020 is that we would see more data breaches — the worst is yet to come. However, I think more countries and territories would rollout data protection regulations and laws. The California Consumer Privacy Act (“CCPA”) became enforceable January 1<sub>st</sub>, 2020 for residents of California. Brazil’s General Data Protection Law will come into effect August 2020 and Thailand’s Personal Data Protection Act comes into effect May 2020. 
+
+Thanks to Nurudeen Odeshina and Tobi Williams (he owns [Resagratia](https://www.linkedin.com/company/resagratia/about/), a Data Analytics Company) for the review and help with PowerBI respectively. 
+
 
 ## About Author:
 [Mosimilolu Odusanya](https://www.linkedin.com/in/mosimilolu-odusanya) is a member of the NaijaSecForce and a  cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
