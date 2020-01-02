@@ -131,7 +131,7 @@ Our line of work is an ever-changing one, with adversaries always determining th
 Stephen Kofi Asamoah is a big fun of Animated movies *blush* People close to him are usually surprised because they say he doesn'tlook like someone who's into such movies.He has  seen all Hotel Transilvania, Shrek, Minions, Mona, you name it (lol).
 
 ## About Author:
-Mosimilolu Odunsaya is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
+Mosimilolu Odunsaya is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She has also worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
 
 One of her goals is bridging the gender gap in cyber security by motivating women to join the Cyber Security Industry. She is also available for a chat/discussion if any lady needs it. 
 
