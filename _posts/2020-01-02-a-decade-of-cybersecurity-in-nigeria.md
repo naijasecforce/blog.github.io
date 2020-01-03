@@ -1,10 +1,22 @@
+---
+layout: post
+title:  "A Decade of Cybersecurity in Nigeria"
+author: Hamzah
+categories: [ Cybersecurity, ]
+tags: [cybersecurity, naijasecforce]
+image: ../assets/images/cybersecurity-talent-shortage.jpg
+description: "A Decade of Cybersecurity in Nigeria"
+featured: true
+hidden: true
+rating: 4.5
+---
 
 
 The way we talked about Cybersecurity in this decade was like never before. One cannot write about a decade of Cybersecurity in Nigeria without revisiting some of the major events in the years before this decade, which set the ball rolling for this decade. Did we improve?
 
 Let's go through the ride together😊
 
-In preparation for the Decade (Before 2009)
+# In preparation for the Decade (Before 2009)
 
 Talking about the years before 2009 in Nigeria, we can revisit some major events that made it more important for the country to buckle up her belt in the area of cyber-security in the decade that is about to come which is **2009-2019**.
 
@@ -63,37 +75,38 @@ Those **crimes** that could be committed in the physical space are now finding t
 
 **Cybercrime* such as Website Defacing, **Cyber Bullying** on social media, **Fake News** and misinformation are becoming more rampant - Build-up on the 2015 general Elections. Banks are also been attacked and they are losing a huge amount of money every year, national critical infrastructure is been tampered with. Script kiddies are also eager to try out the new stuff they have learned on the Internet.
 
-# Conyinue editing
-The Office of the National Security Adviser (ONSA) was assigned the responsibility of coming up with a framework that will bring together all stakeholders to fight this menace. The National Cybersecurity Strategy(NCS) and its implementation plan were drafted.
 
-Part of the goals of NCS was the Cybercrime Act, a bill that was introduced and got passed into law in May 2015. As regulation is needed to address the menace of cybercrimes and give to the country saner cyberspace and also to serve as deterrence from people that are planning to commit cybercrimes.
+The Office of the [National Security Adviser (ONSA)](https://www.cybertalknaija.com/onsa-nigeria/) was assigned the responsibility of coming up with a framework that will bring together all stakeholders to fight this menace. The National Cybersecurity Strategy(NCS) and its implementation plan were drafted.
 
-The Nigeria CERT was also established in line with the objectives of NCS, to manage the risks of cyber threats in Nigeria’s cyberspace and effectively coordinate incident response and mitigation strategies to proactively prevent cyber-attacks against Nigeria.
+Part of the goals of [NCS](https://www.cybertalknaija.com/national-cybersecurity-strategy/) was the [Cybercrime Act](https://www.cert.gov.ng/file/docs/CyberCrime__Prohibition_Prevention_etc__Act__2015.pdf), a bill that was introduced and got passed into law in May 2015. As regulation is needed to address the menace of cybercrimes and give to the country saner cyberspace and also to serve as deterrence from people that are planning to commit cybercrimes.
 
-The journey to awareness began. Cyber Security Experts of Association Nigeria (CSEAN) was established as an advocacy group on all matters and challenges faced by Information Security in Nigeria, to be an enabler focused on improving the standards and practices of Information Security in the country.
+The [Nigeria CERT](https://www.cert.gov.ng/) was also established in line with the objectives of NCS, to manage the risks of cyber threats in Nigeria’s cyberspace and effectively coordinate incident response and mitigation strategies to proactively prevent cyber-attacks against Nigeria.
 
-Nigeria Cybersecurity Conference (NaijaSecCon), Nigeria’s first of its kind 100% annual technical Cybersecurity Conference started in 2017 that uniquely merges information about the latest and relevant threats from a Nigerian context with live technical demonstrations and hands-on workshops.
+The journey to awareness began. [Cyber Security Experts of Association Nigeria (CSEAN)](https://csean.org.ng) was established as an advocacy group on all matters and challenges faced by Information Security in Nigeria, to be an enabler focused on improving the standards and practices of Information Security in the country.
 
-From this point, conferences (yearly) spring up across the country bringing professionals across sectors and stakeholders to discuss the way forward and share ideas.
+[Nigeria Cybersecurity Conference (NaijaSecCon)](https://naijaseccon.com/), Nigeria’s first of its kind 100% annual technical Cybersecurity Conference started in 2017 that uniquely merges information about the latest and relevant threats from a Nigerian context with live technical demonstrations and hands-on workshops.
+
+From this point, [conferences](https://www.cybertalknaija.com/category/conference/) (yearly) spring up across the country bringing professionals across sectors and stakeholders to discuss the way forward and share ideas.
 
 Organizations have begun to take the baby steps into making things right by putting basic measures and controls, starting from investing in employee’s education and training on cybersecurity.
 
-Ransomware outbreak is one of the major events that pushed most organizations to their toes in Nigeria in this decade. Those affected have learned their lessons and they are better prepared ever than before.
+[Ransomware outbreak](https://www.nira.org.ng/nira-media/news-update/169-nitda-advises-nigerians-on-ransomware-attacks) is one of the major events that pushed most organizations to their toes in Nigeria in this decade. Those affected have learned their lessons and they are better prepared ever than before.
 
-What about the many private firms that took the bold step of offering managed security services to the organizations that may require  to help them focus on their core business and paying less than acquiring the SECOPS process itself. And considering the area of GRC (Governance, Risk and Compliance), the big four (PWC, KPMG, Deloitte and Ernest & Young) have helped in getting many organizations to complying with many of the industry regulations (CBN directives to banks on security and compliance) considering the cybersecurity risk out there.
+What about the many private firms that took the bold step of offering [managed security services](https://www.cybertalknaija.com/category/mssp/) to the organizations that may require  to help them focus on their core business and paying less than acquiring the SECOPS process itself. And considering the area of GRC (Governance, Risk and Compliance), the big four ([PWC](https://www.pwc.com/ng/en.html), [KPMG](https://home.kpmg/ng/en/home.html), [Deloitte](https://www2.deloitte.com/ng/en.html) and [Ernest & Young](https://www.ey.com/ng/en/home)) have helped in getting many organizations to complying with many of the industry regulations ([CBN](https://www.cbn.gov.ng/) directives to banks on security and compliance) considering the cybersecurity risk out there.
 
-With this improvement, we have a greater number of Governmental and non-Governmental organizations willing to contribute to the story, the cybersecurity ecosystem is being formed in the country and CyberTalkNaija took the bold step in bringing us a platform to provide access to this ecosystem in one click.
+With this improvement, we have a greater number of Governmental and non-Governmental organizations willing to contribute to the story, the cybersecurity ecosystem is being formed in the country and [CyberTalkNaija](https://www.cbn.gov.ng/) took the bold step in bringing us a platform to provide access to this [ecosystem](https://www.cybertalknaija.com/cyber-ecosystem/) in one click.
 
-To boost awareness, early 2019 ushered in Cybersecfill, which prides itself on being the first independent cybersecurity blog in Nigeria with great coverage on cybersecurity, ranging from awareness/safety tips, technical topics such as network security and critical infrastructure, web security and infosec governance.
+To boost awareness, early 2019 ushered in [Cybersecfill](https://www.cybertalknaija.com/cyber-ecosystem/), which prides itself on being the first independent cybersecurity blog in Nigeria with great coverage on cybersecurity, ranging from awareness/safety tips, technical topics such as network security and critical infrastructure, web security and infosec governance.
 
 One cannot shy away from the spate at which Nigerian’s data is being breached by service providers, a situation that made NITDA issue the NDPR (Nigeria Data Protection Regulation 2019), the most robust data protection framework in Nigeria.
 
-For those that love to listen to podcasts, The Secure Hub is the place to visit in 2019, a Cyber Security Podcast dedicated to bringing you Cyber Crime News in Nigeria and globally; tips on Cyber Security Awareness, Digital & Online Privacy, Social Engineering, and generally how to stay safe online.
+For those that love to listen to podcasts, The [Secure Hub](www.thesecurehub.com) is the place to visit in 2019, a Cyber Security Podcast dedicated to bringing you Cyber Crime News in Nigeria and globally; tips on Cyber Security Awareness, Digital & Online Privacy, Social Engineering, and generally how to stay safe online.
 
-The rise in the number of digital fraud cases also brings to limelight in 2019 NoGoFallMaga-  A national movement of young people, working to combat preventable digital fraud with consumer-centred sensitization and education. Digital fraud in this context includes email deception, phone-based scams, online fraud - particularly where cyber criminals impersonate trusted organizations.
+The rise in the number of digital fraud cases also brings to limelight in 2019 [NoGoFallMaga](https://nogofallmaga.org)-  A national movement of young people, working to combat preventable digital fraud with consumer-centred sensitization and education. Digital fraud in this context includes email deception, phone-based scams, online fraud - particularly where cyber criminals impersonate trusted organizations.
 
-The Nigeria Team also participated in the Regional Cyber Challenge coordinated by CS2. The Challenge was organized in conjunction with the AISA Perth Conference 2019 themed: Change the Rules, Up the Game. The event which saw the gathering of cybersecurity professionals from many countries with the objective of this challenge to assess the ability of a security team to detect, respond and recover from cyber-attacks called for teams with multidisciplinary competences.
+The Nigeria Team also participated in the Regional Cyber Challenge coordinated by [CS2](https://www.cs2.com.ng). The Challenge was organized in conjunction with the [AISA Perth Conference 2019](https://www.aisa.org.au) themed: Change the Rules, Up the Game. The event which saw the gathering of cybersecurity professionals from many countries with the objective of this challenge to assess the ability of a security team to detect, respond and recover from cyber-attacks called for teams with multidisciplinary competences.
 
-Considering all these feats achieved by Nigeria within this decade. The ITU’s GCI reports for the year 2017 and 2018, Nigeria has ranked 4th and 5th respectively from the Africa Region, and 46th and 57th respectively on a Global scale. I hope we can do better as a nation and as we move into the new decade. We need to be more practical about our actions towards addressing our cybersecurity posture as a Nation.
+Considering all these feats achieved by Nigeria within this decade. The [ITU’s GCI](https://www.cybersecfill.com/cybersecurity-in-africa/) reports for the year 2017 and 2018, Nigeria has ranked **4th and 5th** respectively from the Africa Region, and **46th** and **57th** respectively on a Global scale. I hope we can do better as a nation and as we move into the new decade. We need to be more practical about our actions towards addressing our cybersecurity posture as a Nation.
 
 Welcome to a New Decade (2020-2029).
+
