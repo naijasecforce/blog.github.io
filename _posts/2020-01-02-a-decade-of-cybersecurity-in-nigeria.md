@@ -122,4 +122,4 @@ Welcome to a New Decade (2020-2029).
 Source: [Cybersecfill](https://www.cybersecfill.com/a-decade-of-cybersecurity-in-nigeria/)
 
 ## About the Author:
-[Hamzah Lateef](https://www.linkedin.com/in/password-ng/) is a cybersecurity engineer who manages and support endpoint and Network security.He has implemented and managed cybersecurity projects
+[Hamzah Lateef](https://www.linkedin.com/in/password-ng/) is a member of NaijaSecForce and a cybersecurity engineer who manages and support endpoint and Network security.He has implemented and managed various cybersecurity projects
