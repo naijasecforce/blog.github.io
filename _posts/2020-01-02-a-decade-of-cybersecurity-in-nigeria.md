@@ -76,12 +76,15 @@ Those **crimes** that could be committed in the physical space are now finding t
 **Cybercrime* such as Website Defacing, **Cyber Bullying** on social media, **Fake News** and misinformation are becoming more rampant - Build-up on the 2015 general Elections. Banks are also been attacked and they are losing a huge amount of money every year, national critical infrastructure is been tampered with. Script kiddies are also eager to try out the new stuff they have learned on the Internet.
 
 ![](../assets/images/cybersecurity-decade4.png)
+*FUTMINNA Website Defaced . Source: Nairaland*
 
 
 ![](../assets/images/cybersecurity-decade3.png)
 
-![](../assets/images/cybersecurity-decade2.png)
+*Osibanjo Bank Account Hacked Source: National Mirror*
 
+![](../assets/images/cybersecurity-decade2.png)
+*INEC Website Hacked and Defaced. Source: Leadership*
 The Office of the [National Security Adviser (ONSA)](https://www.cybertalknaija.com/onsa-nigeria/) was assigned the responsibility of coming up with a framework that will bring together all stakeholders to fight this menace. The National Cybersecurity Strategy(NCS) and its implementation plan were drafted.
 
 Part of the goals of [NCS](https://www.cybertalknaija.com/national-cybersecurity-strategy/) was the [Cybercrime Act](https://www.cert.gov.ng/file/docs/CyberCrime__Prohibition_Prevention_etc__Act__2015.pdf), a bill that was introduced and got passed into law in May 2015. As regulation is needed to address the menace of cybercrimes and give to the country saner cyberspace and also to serve as deterrence from people that are planning to commit cybercrimes.
