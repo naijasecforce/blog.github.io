@@ -4,7 +4,7 @@ title:  "A Decade of Cybersecurity in Nigeria"
 author: Hamzah
 categories: [ Cybersecurity, ]
 tags: [cybersecurity, naijasecforce]
-image: ../assets/images/cybersecurity-talent-shortage.jpg
+image: ../assets/images/cybersecurity-decade1.png
 description: "A Decade of Cybersecurity in Nigeria"
 featured: true
 hidden: true
@@ -75,6 +75,12 @@ Those **crimes** that could be committed in the physical space are now finding t
 
 **Cybercrime* such as Website Defacing, **Cyber Bullying** on social media, **Fake News** and misinformation are becoming more rampant - Build-up on the 2015 general Elections. Banks are also been attacked and they are losing a huge amount of money every year, national critical infrastructure is been tampered with. Script kiddies are also eager to try out the new stuff they have learned on the Internet.
 
+![](../assets/images/cybersecurity-decade4.png)
+
+
+![](../assets/images/cybersecurity-decade3.png)
+
+![](../assets/images/cybersecurity-decade2.png)
 
 The Office of the [National Security Adviser (ONSA)](https://www.cybertalknaija.com/onsa-nigeria/) was assigned the responsibility of coming up with a framework that will bring together all stakeholders to fight this menace. The National Cybersecurity Strategy(NCS) and its implementation plan were drafted.
 
@@ -110,3 +116,7 @@ Considering all these feats achieved by Nigeria within this decade. The [ITU’s
 
 Welcome to a New Decade (2020-2029).
 
+### Source: [Cybersecfill](https://www.cybersecfill.com/a-decade-of-cybersecurity-in-nigeria/)
+
+## About the Author:
+[Hamzah Lateef](https://www.linkedin.com/in/password-ng/) is a cybersecurity engineer who manages and support endpoint and Network security.He has implemented and managed cybersecurity projects
