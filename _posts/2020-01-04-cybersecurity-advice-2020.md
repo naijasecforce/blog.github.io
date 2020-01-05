@@ -1,4 +1,15 @@
-
+---
+layout: post
+title:  "THE USB TRAIL: ANTI-FORENSICS AND ANTI-ANTI-FORENSICS BITTER ROMANCE"
+author: Chidi
+categories: [ Career]
+tags: [Simbiat, naijasecforce]
+image: ../assets/images/USB-Trail-Chidi-Used-USB.jpg
+description: "Using Digital Forensics to prove that an a USB device was used to conduct an attack."
+featured: false
+hidden: true
+rating: 4.5
+---
 
 # 20 things Cybersecurity Teams need to do better in 2020 – NaijaSecForce Edition
 
