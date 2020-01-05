@@ -6,7 +6,7 @@ categories: [ Cybersecurity meetup, Networking ]
 tags: [Meetup, naijasecforce]
 image: ../assets/images/abuja_meetup_group_28092019.jpg
 description: "Summary of Naijasecforce Abuja meetup."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---
