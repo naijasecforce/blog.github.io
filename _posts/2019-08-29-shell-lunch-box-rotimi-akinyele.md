@@ -7,7 +7,7 @@ tags: [rotimi, naijasecforce]
 image: ../assets/images/shell_lunchbox_1.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: false
-hidden: true
+hidden: false
 rating: 4.5
 ---
 
