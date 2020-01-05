@@ -6,7 +6,7 @@ categories: [ Red Teaming, Hacking ]
 tags: [chinedu, naijasecforce, hacking, red-team]
 image: ../assets/images/1.png
 description: "Red Teaming with Convenant and Donut"
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---
