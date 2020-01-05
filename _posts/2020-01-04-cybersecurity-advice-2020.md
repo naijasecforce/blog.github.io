@@ -6,8 +6,8 @@ categories: [Career]
 tags: [Rotimi, naijasecforce]
 image: ../assets/images/cybersecurity-advice.jpg
 description: "20 things Cybersecurity Teams need to do better in 2020 – NaijaSecForce Edition"
-featured: false
-hidden: true
+featured: true
+hidden: false
 rating: 4.5
 ---
 
