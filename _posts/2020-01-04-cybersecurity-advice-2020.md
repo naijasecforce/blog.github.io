@@ -1,18 +1,17 @@
 ---
 layout: post
-title:  "THE USB TRAIL: ANTI-FORENSICS AND ANTI-ANTI-FORENSICS BITTER ROMANCE"
-author: Chidi
-categories: [ Career]
-tags: [Simbiat, naijasecforce]
-image: ../assets/images/USB-Trail-Chidi-Used-USB.jpg
-description: "Using Digital Forensics to prove that an a USB device was used to conduct an attack."
+title:  "20 things Cybersecurity Teams need to do better in 2020 – NaijaSecForce Edition"
+author: NaijaSecForce
+categories: [Career]
+tags: [Rotimi, naijasecforce]
+image: ../assets/images/cybersecurity-advice.jpg
+description: "20 things Cybersecurity Teams need to do better in 2020 – NaijaSecForce Edition"
 featured: false
 hidden: true
 rating: 4.5
 ---
 
-# 20 things Cybersecurity Teams need to do better in 2020 – NaijaSecForce Edition
-cybersecurity remains a great concern as cyber attacks continue to rise. Cybersecurity teams are responsible for protecting IT infrastutures, networks and data among others from cyber attacks. For effective cyber defense, cybersecurity teams should incoperate the folowing:
+cybersecurity remains a great concern and as cyber attacks continue to rise, Cybersecurity teams have the responsibility of  protecting IT infrastutures, networks and data among others from cyber attacks. For effective cyber defense, cybersecurity teams should incoperate the folowing:
 
 1.	**Review completeness of asset inventory:** You need complete visibility into what is on your network, where your data is and where it transverses.
 2.	**Improve endpoint security:** Implementing an EDR on your endpoints would aid detection and possible prevention of attacks that starts from your endpoints. If you do not have the budget for EDR, rollout Sysmon on endpoints and tweak the sysmon config files from SwiftOnSecurity/olafhartong to suit your environment.
