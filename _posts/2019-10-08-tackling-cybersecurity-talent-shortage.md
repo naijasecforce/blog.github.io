@@ -7,7 +7,7 @@ tags: [cybersecurity, naijasecforce]
 image: ../assets/images/cybersecurity-talent-shortage.jpg
 description: "Tackling Cybersecurity Talent Shortage in Africa"
 featured: false
-hidden: true
+hidden: false
 rating: 4.5
 ---
 
