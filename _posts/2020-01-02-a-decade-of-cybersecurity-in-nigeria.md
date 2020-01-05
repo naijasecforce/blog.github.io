@@ -72,7 +72,6 @@ On the other end of the spectrum, **crimes** that could only be committed in the
 ![](../assets/images/cybersecurity-decade4.png)
 *FUTMINNA Website Defaced . Source: Nairaland*
 
-
 ![](../assets/images/cybersecurity-decade3.png)
 
 *Osibanjo Bank Account Hacked Source: National Mirror*
