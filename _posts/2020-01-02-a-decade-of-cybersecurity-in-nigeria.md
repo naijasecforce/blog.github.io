@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Decade of Cybersecurity in Nigeria"
-author: Hamzah
+author: Hamzah, NSF Editorial Team
 categories: [ Cybersecurity, ]
 tags: [cybersecurity, naijasecforce]
 image: ../assets/images/cybersecurity-decade1.png
@@ -12,68 +12,62 @@ rating: 4.5
 ---
 
 
-The way we talked about Cybersecurity in this decade was like never before. One cannot write about a decade of Cybersecurity in Nigeria without revisiting some of the major events in the years before this decade, which set the ball rolling for this decade. Did we improve?
+The way we talked about Cybersecurity in this decade was like never before. One cannot write about 10 years of Cybersecurity in Nigeria without revisiting some of the major events preceeding this period, which had set the ball rolling for the developments witnessed. The question to be answered here is, “Did we improve?”.
 
-Let's go through the ride together😊
+Let's go through the ride together 😊
 
-# In preparation for the Decade (Before 2009)
+# In preparation for the decade (Before 2009)
 
-Talking about the years before 2009 in Nigeria, we can revisit some major events that made it more important for the country to buckle up her belt in the area of cyber-security in the decade that is about to come which is **2009-2019**.
+The years before 2009 in Nigeria, witnessed some major events in Information Communication Technology, which made it more important for the country to buckle up in the area of Cybersecurity.
 
-In the years before 2009, there was a time our telecommunication density as a nation was nothing to write home about. We did not have mobile phones in our hands, and the government made some decisions on how to improve this situation, a journey that was kick-started in 2001. A step that improved communication and businesses became interconnected within the country.
+Prior to 2009, Nigeria’s telecommunication density was nothing to write home about. We did not have mobile phones in our hands, and the government made some decisions on how to improve this situation, a journey that was kick-started in 2001. This singular step improved communication and businesses became interconnected within the country.
 
-Just this same time, [NITDA](https://en.wikipedia.org/wiki/National_Information_Technology_Development_Agency) was birthed with the sole responsibility of developing a program that caters to the running of Information Communication Technology (ICT) related activities in the country. A bill was passed into law (**NITDA Act 2007**) to officially enact this power and responsibility six years after its birth. This was a move to creating an enabling environment for the implementation of ICT across the board (private and public sectors) and digitization of many manual processes of doing things in government.
+About this time as well, [NITDA](https://en.wikipedia.org/wiki/National_Information_Technology_Development_Agency) was birthed with the sole responsibility of developing a program that caters to the running of Information Communication Technology (ICT) related activities in the country. A bill was passed into law (**NITDA Act 2007**) to officially enact this power and responsibility six years after its birth. This move was aimed at creating an enabling environment for the implementation of ICT across board (private and public sectors) and digitization of many manual processes of doing things in Nigeria.
 
-[Galaxy Backbone](https://galaxybackbone.com.ng/) commenced operation in 2006 as the information technology and shared services provider of the Federal Government of Nigeria. **Galaxy Backbone** plays a key role in the development and deployment of technology initiatives and services in government, working with the master plan for e-Government in Nigeria which is to be achieved by the year **2020**.
+Following these developments, [Galaxy Backbone](https://galaxybackbone.com.ng/) commenced operation in 2006 as the information technology and shared services provider of the Federal Government of Nigeria. **Galaxy Backbone** plays a key role in the development and deployment of technology initiatives and services in government, working with the master plan for e-Government in Nigeria, a goal that was set for the year **2020**.
 
-Around this period, [NIMC](https://www.nimc.gov.ng/) was establishe9d to create, operate and manage Nigeria's national identity card database, integrate the existing identity database in government institutions, register individuals and legal residents, assign a unique National Identification Number(NIN) and introduce general multi-purpose cards. This was a sign that the country has started collecting **data** in digital forms.
+In similar fashion, [NIMC](https://www.nimc.gov.ng/) was establishe9d to create, operate and manage Nigeria's national identity card database, integrate the existing identity database in government institutions, register individuals and legal residents, assign a unique National Identification Number(NIN) and introduce general multi-purpose cards. This was a sign that the country had started collecting **data** in digital formats.
 
-**Cybercafe** business became a lucrative business as many Computer Center now provides Internet access to young teeming Nigerians in remote towns and cities. This opportunity to access the world from a small screen gave the youth that will dominate the coming decade the opportunity to learn.
+**Internet Cafes (_often referred to locally as Cybercafes_)** became a lucrative business, as many centers began providing Internet access to young, teeming Nigerians in remote towns and cities. This opportunity to access the world from a small screen gave the youth, who later dominated the next 10 years the opportunity to learn.
 
-But at the time no one is certain of what they were learning. Some of them started blogging, some started exploring ICT skills such as networking, programming, and web development. The leverage on social media platforms connected many to a greater sense of exposure.
+Albeit, most people were  uncertain of what exactly to learn, given the plethora of information available online. Some people took interest in blogging, while others  explored ICT skills such as networking, programming, and web development. One thing that cuts across all these individuals though is the use of Social Media, which brought them significant exposure in whatever path they chose.
 
-[Census](https://en.wikipedia.org/wiki/List_of_Nigerian_states_by_population) took place and the country could ascertain it's population - A teeming population of 140 million, which was a big sign for opportunities to be exploited for businesses.
+Nigeria conducted it’s [Census](https://en.wikipedia.org/wiki/List_of_Nigerian_states_by_population) exercise across the country, which produced a figure of about 140 million. A sure sign of moreopportunities to be exploited for businesses.
 
 
-> Banks will play a major role in the decade that was about to come in 2009 especially in the area of cybersecurity and information security in general. But many events happened in the years before, which really helped to prepare them for the challenges ahead. The first of these challenges was the banking reform conducted by the CBN in 2004. The weak banks could not continue while some got saved after going through a merger. This process gave us strong banks that were ready to compete with their international counterparts.
+> Banks would play a major role in the decade that was about to come in 2009 especially in the area of Cybersecurity and information security in general. But many events happened in the years before, which really helped to prepare them for the challenges ahead. The first of such challenges was the banking reform conducted by the Central Bank of Nigeria (CBN) in 2004. Weaker banks could not continue operations, while some remained in business only after a merger. This process gave us strong banks that were ready to compete with their international counterparts.
 
-Putting to test the saying that, you won’t know who is strong yet until there is a crisis. It was in 2008, [the global financial crisis rocked the world](https://en.wikipedia.org/wiki/List_of_Nigerian_states_by_population) and our presumed strong banks were meant to scale through this crisis. Up to five banks got acquired in a day by the CBN, their leadership were changed and handed to [AMCON](https://amcon.com.ng/). This crisis gave us stronger banks that  scaled business with technology and ICT, just a year to the beginning of the new decade.
+This was a testament to the saying that, “You won’t know who is strong yet until there is a crisis”. It was in 2008, when [the global financial crisis rocked the world](https://en.wikipedia.org/wiki/List_of_Nigerian_states_by_population) and our presumed strong banks were meant to scale through this crisis, however, up to five banks got acquired in a day by the CBN, their leadership was changed and handed to [AMCON](https://amcon.com.ng/). This crisis gave us even stronger banks that scaled their operations with technology. All of this happened just a year to the beginning of the new decade.
 
-Just before we rolled into the new decade, Nigeria has already been known for the [Advanced Fee Fraud (419)](https://en.wikipedia.org/wiki/Advance-fee_scam) on the global stage as some teeming youth earlier discover the exploit and took great advantage of it giving the country a bad reputation.
+Unfortunately, Nigeria had already been associated with the [Advanced Fee Fraud (419)](https://en.wikipedia.org/wiki/Advance-fee_scam) scam on the global stage as several persons had latched onto these illegal activities thus giving the country a bad reputation.
 
 # In this Decade (2009-2019)
 
-It was a brand-new day in January 2009, the new decade had begun. Our past decisions will start taking hit on us as a nation. There was this rush by individuals and businesses to take advantage of opportunities the new decade will present.
+Events of the years before had taught individuals how they could utilize ICT to their advantage and exposed many businesses to the idea of leveraging ICT in their daily operations.
 
-Many of the events in the years before this decade taught individuals how they can use ICT  to their advantage and exposed many businesses to the idea of leveraging ICT as well
+As of early 2009, we could count the number of [Tertiary institutions](https://www.informationng.com/2009/07/nigerian-universities-websites.html) which had implemented some form of Online Web Portal system. A short while after, these numbers have soared and it appears there are even competing portals for similar activities.
 
-As of early 2009, we can count the number of [Tertiary institutions](https://www.informationng.com/2009/07/nigerian-universities-websites.html) on our fingers that have implemented a portal system through which their students can access all possible information without having to travel the distance down to schools. The game is on and the competition becomes so keen.
+**Digital banking** then sprung up as payment systems were been digitized. Online payments were available via bank-issued vouchers which would then be used on web portals as Debit/Credit cards were not yet available. For most of those who implemented this approach, the focus was “making things work online” and less on “making things work securely”.
 
-**Digital banking** began to spring up as we have our payment system digitize. You can now pay your school fees online; through bank vouchers, you get from bank and load on your school portal. (ATM card is not available).
+In academia, [Federal University of Technology Minna] pioneered the studies of Cybersecurity as early as 2009 by establishing the [Department of Cybersecurity](https://www.informationng.com/2009/07/nigerian-universities-websites.html). This  was the first training ground in the country and the whole of West Africa at the time. Shortly after, other schools followed suit such as [Federal University of Technology Akure](http://css.futa.edu.ng/), Centre for Cyberspace Studies, [Nasarawa State University, Keffi](https://www.ccs-nsuk.net/) and others. They all kick-started the decade by providing Cybersecurity education and training.
 
-Everyone wants to go this way without considering the consequences, all they are after is the functionalities and the profit it will bring. The era of **making it work first, we can think of security later.**
+The Joint Admissions and Matriculation Board (JAMB) unified their exams, and students now had easier access to their results  [UTME](https://www.nairaland.com/435828/jamb-utme-2010-result-finally). As of this writing, JAMB is proposing conducting computer-based tests in the near future.
 
-We had a tertiary institution in the country as early as 2009 -  [Department of Cybersecurity](https://www.informationng.com/2009/07/nigerian-universities-websites.html), Federal University of Technology Minna. The first training ground in the country and the whole of West Africa in cybersecurity at the time. And some other schools followed suit after some years like the [Federal University of Technology Akure](http://css.futa.edu.ng/), Centre for Cyberspace Studies, [Nasarawa State University, Keffi](https://www.ccs-nsuk.net/) and others. They all kick-started the decade of building cybersecurity professionals by providing education and training.
+Several Ministries, Departments and Agencies (MDAs) of government have their online presence typically through a website and Social Media account, more often Twitter with the private sector leading this initiate such that, many business, small and big alike are creating innovative ways to engage their audiences.
 
-JAMB unified their exams, and students now have to go through [UTME](https://www.nairaland.com/435828/jamb-utme-2010-result-finally). Online registration commences and they are proposing an exam that will be conducted over CBT in the future.
-
-Government agencies and ministries now have an online presence through their website and Twitter. And the private sector is taking the lead, small business and big businesses are replicating this idea very fast.
-
-We have an increased number of mobile phones in the hands of Nigerians. Mobile phones with improving functionalities, people can now access the web through their mobile phones and use other applications.The usage of social media is now the trend  (Facebook & Twitter). People getting connected to old friends from schools and improving opportunities in getting to know new people across borders.
+With the increased number of mobile phones in the hands of Nigerians, especially with the advent of smartphones, people can now access the web through their mobile phones and use numerous software applications and improving opportunities in getting to know new people across borders.
 
 How can social media influence an election? [Nigeria](https://www.voanews.com/africa/social-media-play-big-role-nigerias-elections) experienced it firsthand in the 2011 General Election. There was this full coverage of the electoral processes across the country and a rise in citizens’ interest in who becomes their leader. This is an era of a **woke nation**.
 
-In 2012, the push for [e-commerce](http://nigerianlawtoday.com/e-commerce-evolution-in-nigeria-opportunities-and-threats/) became imminent in Nigeria. Almost at the same time, we have Jumia and Konga take up the herculean task of given Nigerians the platform. A gateway to buy and sell across the country without the seller having to meet the buyer. Credit cards are now available to make this transaction possible.
+In 2012, the push for [e-commerce](http://nigerianlawtoday.com/e-commerce-evolution-in-nigeria-opportunities-and-threats/) became imminent in Nigeria. Almost at the same time, we had Jumia and Konga take up the herculean task of providing Nigerians a platform to buy and sell across the country without the seller having to meet the buyer. Credit cards had become available, which made such transactions possible.
 
-Banks are doing more to get their cards into people’s hands to reduce the number of people in  their banking hall and also make people use the Automated Teller Machines(ATM). People are enabling internet banking with those banks that made them available first. USSD was another means of ensuring 24/7 banking time. People can now use **codes(transfer code)** to move money in the blink of the eye to family, friends and business partners.
+Banks were competing to get their cards into people’s hands to reduce the number of people at their banking halls and also make people use the Automated Teller Machines (ATMs). People are enabling internet banking with those banks that made them available first. USSD was another means of ensuring 24/7 banking time. People could now use ** service codes (e.g. transfer code)** to move money in the blink of an eye to family, friends and business partners.
 
-<Now the speed is like never before. Everything is changing fast, people are adapting to a new way of doing business, and getting happy with their gain.
+**Millions of data** was transferred in and out of Nigeria's cyberspace. This was the true sign of the information era in Nigeria. New sources of income was created for several people many of whom had invested their time and resources in skills acquisition for the prior 10 years.
 
-**Millions of data** started flying in and out of our cyberspace daily. This is the true sign of the information era in Nigeria. New people are joining the trend daily, the number is increasing. New Millionaires are made daily as new tech leaders arise. The teeming youth of the years before 2009 are enjoying their investments in the old times. The **digital influence** and follower-ship are becoming real, and ICT is challenging every area of life in the country.
+On the other end of the spectrum, **crimes** that could only be committed in the physical realm were now moved into cyberspace and people learnt how to explore the vulnerabilities that come with this new way of life.
 
-Those **crimes** that could be committed in the physical space are now finding their way into cyberspace and people are learning how to explore the vulnerabilities that come with this new way of life. The government has to do something, and they can’t do it alone. They have to bring in the private sectors and other stakeholders.
-
-**Cybercrime* such as Website Defacing, **Cyber Bullying** on social media, **Fake News** and misinformation are becoming more rampant - Build-up on the 2015 general Elections. Banks are also been attacked and they are losing a huge amount of money every year, national critical infrastructure is been tampered with. Script kiddies are also eager to try out the new stuff they have learned on the Internet.
+**Cybercrime* such as Website Defacing, **Cyber Bullying** on social media, **Fake News** and misinformation became more rampant. Some examples of such crimes include:
 
 ![](../assets/images/cybersecurity-decade4.png)
 *FUTMINNA Website Defaced . Source: Nairaland*
@@ -85,23 +79,24 @@ Those **crimes** that could be committed in the physical space are now finding t
 
 ![](../assets/images/cybersecurity-decade2.png)
 *INEC Website Hacked and Defaced. Source: Leadership*
-The Office of the [National Security Adviser (ONSA)](https://www.cybertalknaija.com/onsa-nigeria/) was assigned the responsibility of coming up with a framework that will bring together all stakeholders to fight this menace. The National Cybersecurity Strategy(NCS) and its implementation plan were drafted.
 
-Part of the goals of [NCS](https://www.cybertalknaija.com/national-cybersecurity-strategy/) was the [Cybercrime Act](https://www.cert.gov.ng/file/docs/CyberCrime__Prohibition_Prevention_etc__Act__2015.pdf), a bill that was introduced and got passed into law in May 2015. As regulation is needed to address the menace of cybercrimes and give to the country saner cyberspace and also to serve as deterrence from people that are planning to commit cybercrimes.
+Due to the increase in online criminal activity, The Office of the [National Security Adviser (ONSA)](https://www.cybertalknaija.com/onsa-nigeria/) was assigned the responsibility of coming up with a framework that would bring together all stakeholders to fight this menace. The National Cybersecurity Strategy (NCS) and its implementation plan were drafted.
+
+Part of the goals of [NCS](https://www.cybertalknaija.com/national-cybersecurity-strategy/) was the [Cybercrime Act](https://www.cert.gov.ng/file/docs/CyberCrime__Prohibition_Prevention_etc__Act__2015.pdf), a bill that was introduced and got passed into law in May 2015. This regulation was needed to address this menace, while ensuring a saner cyberspace and also to serve as deterrents for would-be cybercriminals.
 
 The [Nigeria CERT](https://www.cert.gov.ng/) was also established in line with the objectives of NCS, to manage the risks of cyber threats in Nigeria’s cyberspace and effectively coordinate incident response and mitigation strategies to proactively prevent cyber-attacks against Nigeria.
 
 The journey to awareness began. [Cyber Security Experts of Association Nigeria (CSEAN)](https://csean.org.ng) was established as an advocacy group on all matters and challenges faced by Information Security in Nigeria, to be an enabler focused on improving the standards and practices of Information Security in the country.
 
-[Nigeria Cybersecurity Conference (NaijaSecCon)](https://naijaseccon.com/), Nigeria’s first of its kind 100% annual technical Cybersecurity Conference started in 2017 that uniquely merges information about the latest and relevant threats from a Nigerian context with live technical demonstrations and hands-on workshops.
+[Nigeria Cybersecurity Conference (NaijaSecCon)](https://naijaseccon.com/), Nigeria’s first of its kind 100% annual technical Cybersecurity Conference started in 2017, the gathering uniquely merges information about the latest and relevant threats from a Nigerian context with live technical demonstrations and hands-on workshops.
 
-From this point, [conferences](https://www.cybertalknaija.com/category/conference/) (yearly) spring up across the country bringing professionals across sectors and stakeholders to discuss the way forward and share ideas.
+From this point, [conferences](https://www.cybertalknaija.com/category/conference/) (yearly) sprung up across the country bringing professionals across sectors and stakeholders to discuss the way forward and share ideas.
 
-Organizations have begun to take the baby steps into making things right by putting basic measures and controls, starting from investing in employee’s education and training on cybersecurity.
+Organizations had begun to take the baby steps into making things right by putting basic measures and controls, starting from investing in employee’s education and training on cybersecurity.
 
-[Ransomware outbreak](https://www.nira.org.ng/nira-media/news-update/169-nitda-advises-nigerians-on-ransomware-attacks) is one of the major events that pushed most organizations to their toes in Nigeria in this decade. Those affected have learned their lessons and they are better prepared ever than before.
+The [Ransomware outbreak](https://www.nira.org.ng/nira-media/news-update/169-nitda-advises-nigerians-on-ransomware-attacks) was one of the major events that put most organizations on edge in Nigeria in this past decade. Those affected have since learned their lessons and they are better prepared ever than before.
 
-What about the many private firms that took the bold step of offering [managed security services](https://www.cybertalknaija.com/category/mssp/) to the organizations that may require  to help them focus on their core business and paying less than acquiring the SECOPS process itself. And considering the area of GRC (Governance, Risk and Compliance), the big four ([PWC](https://www.pwc.com/ng/en.html), [KPMG](https://home.kpmg/ng/en/home.html), [Deloitte](https://www2.deloitte.com/ng/en.html) and [Ernest & Young](https://www.ey.com/ng/en/home)) have helped in getting many organizations to complying with many of the industry regulations ([CBN](https://www.cbn.gov.ng/) directives to banks on security and compliance) considering the cybersecurity risk out there.
+In addition, many private firms took the bold step of offering [managed security services](https://www.cybertalknaija.com/category/mssp/) to organizations that may require such with the aim of helping them focus on their core business and paying less than acquiring the Security Operations (SECOPS) process itself. Furthermore, in the area of GRC (Governance, Risk and Compliance), the big four ([PWC](https://www.pwc.com/ng/en.html), [KPMG](https://home.kpmg/ng/en/home.html), [Deloitte](https://www2.deloitte.com/ng/en.html) and [Ernest & Young](https://www.ey.com/ng/en/home)) had helped in getting many organizations to comply with many of the industry regulations ([CBN](https://www.cbn.gov.ng/) directives to banks on security and compliance) considering the cybersecurity risk out there.
 
 With this improvement, we have a greater number of Governmental and non-Governmental organizations willing to contribute to the story, the cybersecurity ecosystem is being formed in the country and [CyberTalkNaija](https://www.cbn.gov.ng/) took the bold step in bringing us a platform to provide access to this [ecosystem](https://www.cybertalknaija.com/cyber-ecosystem/) in one click.
 
