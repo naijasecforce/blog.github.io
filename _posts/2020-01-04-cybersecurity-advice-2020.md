@@ -37,8 +37,8 @@ cybersecurity remains a great concern as cyber attacks continue to rise. Cyberse
 
 ### About Authors:
 
-Rotimi Akinyele currently manages Information Security, Governance and Business Continuity at a Government authority in the United Arab Emirates (UAE).
+[Rotimi Akinyele](https://ae.linkedin.com/in/nigerianpenetrationtester) currently manages Information Security, Governance and Business Continuity at a Government authority in the United Arab Emirates (UAE).
 
-Jaiyeola Abimbola  is an Information security professional with a wealth of experience covering operating systems, applications, software development, cryptography, forensics, information risk, software development and payment systems.
+[Jaiyeola Abimbola](https://ae.linkedin.com/in/abimbola-jaiyeola-06448757) is an Information security professional with a wealth of experience covering operating systems, applications, software development, cryptography, forensics, information risk, software development and payment systems.
 
-Richard Uhunmwagho.  is a versatile Cybersecurity Governance, Risk, and Compliance (GRC), Audit & Data Privacy professional with expansive experience in Business and Technology spanning diverse markets and cultures across various regions in several sectors.
+[Richard Uhunmwagho](https://ae.linkedin.com/in/ricuhun) is a versatile Cybersecurity Governance, Risk, and Compliance (GRC), Audit & Data Privacy professional with expansive experience in Business and Technology spanning diverse markets and cultures across various regions in several sectors.
