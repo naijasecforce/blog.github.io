@@ -61,13 +61,13 @@ How can social media influence an election? [Nigeria](https://www.voanews.com/af
 
 In 2012, the push for [e-commerce](http://nigerianlawtoday.com/e-commerce-evolution-in-nigeria-opportunities-and-threats/) became imminent in Nigeria. Almost at the same time, we had Jumia and Konga take up the herculean task of providing Nigerians a platform to buy and sell across the country without the seller having to meet the buyer. Credit cards had become available, which made such transactions possible.
 
-Banks were competing to get their cards into people’s hands to reduce the number of people at their banking halls and also make people use the Automated Teller Machines (ATMs). People are enabling internet banking with those banks that made them available first. USSD was another means of ensuring 24/7 banking time. People could now use ** service codes (e.g. transfer code)** to move money in the blink of an eye to family, friends and business partners.
+Banks were competing to get their cards into people’s hands to reduce the number of people at their banking halls and also make people use the Automated Teller Machines (ATMs). People are enabling internet banking with those banks that made them available first. USSD was another means of ensuring 24/7 banking time. People could now use **service codes (e.g. transfer code)** to move money in the blink of an eye to family, friends and business partners.
 
 **Millions of data** was transferred in and out of Nigeria's cyberspace. This was the true sign of the information era in Nigeria. New sources of income was created for several people many of whom had invested their time and resources in skills acquisition for the prior 10 years.
 
 On the other end of the spectrum, **crimes** that could only be committed in the physical realm were now moved into cyberspace and people learnt how to explore the vulnerabilities that come with this new way of life.
 
-**Cybercrime* such as Website Defacing, **Cyber Bullying** on social media, **Fake News** and misinformation became more rampant. Some examples of such crimes include:
+**Cybercrime** such as Website Defacing, **Cyber Bullying** on social media, **Fake News** and misinformation became more rampant. Some examples of such crimes include:
 
 ![](../assets/images/cybersecurity-decade4.png)
 *FUTMINNA Website Defaced . Source: Nairaland*
