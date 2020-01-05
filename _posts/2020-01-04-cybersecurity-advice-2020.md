@@ -11,7 +11,7 @@ hidden: false
 rating: 4.5
 ---
 
-Cybersecurity remains a great concern and as cyber attacks continue to rise, Cybersecurity teams have the responsibility of  protecting IT infrastutures, networks and data among others from cyber attacks. For effective cyber defense, cybersecurity teams should incoperate the folowing:
+Cybersecurity remains a great concern and as cyber attacks continue to rise, Cybersecurity teams have the responsibility of  protecting IT infrastutures, networks and data among others from cyber attacks. For effective management of cyber risk, cybersecurity teams should incoperate the folowing:
 
 1.	**Review completeness of asset inventory:** You need complete visibility into what is on your network, where your data is and where it transverses.
 2.	**Improve endpoint security:** Implementing an EDR on your endpoints would aid detection and possible prevention of attacks that starts from your endpoints. If you do not have the budget for EDR, rollout Sysmon on endpoints and tweak the sysmon config files from SwiftOnSecurity/olafhartong to suit your environment.
@@ -40,4 +40,5 @@ Cybersecurity remains a great concern and as cyber attacks continue to rise, Cyb
 
 [Jaiyeola Abimbola](https://ae.linkedin.com/in/abimbola-jaiyeola-06448757) is an Information security professional with a wealth of experience covering operating systems, applications, software development, cryptography, forensics, information risk, software development and payment systems.
 
-[Richard Uhunmwagho](https://ae.linkedin.com/in/ricuhun) is a versatile Cybersecurity Governance, Risk, and Compliance (GRC), Audit & Data Privacy professional with expansive experience in Business and Technology spanning diverse markets and cultures across various regions in several sectors.
+[Richard Uhunmwagho](https://ae.linkedin.com/in/ricuhun) is a versatile Cybersecurity Governance, Risk, and Compliance (GRC), Audit & Data Privacy professional with expansive experience in Business and Technology spanning diverse various regions in several sectors
+
