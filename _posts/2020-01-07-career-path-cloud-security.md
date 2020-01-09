@@ -10,7 +10,7 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-On this series on Career path, Mosimi interviwed cybersecurity professionals on cloud security. The cloud has changed how people use the Internet. This is especially true for companies and organizations who are adoptoing the use of cloud. While the adoption has increased, so have the challenges in regards to cloud security.
+On this series on career path, Mosimi interviwed cybersecurity professionals on cloud security. The cloud has changed how people use the Internet. This is especially true for companies and organizations who are adoptoing the use of cloud. While the adoption has increased, so have the challenges in regards to cloud security.
 
 Cloud security is a tactical path in cybersecurity that entails the protection of data, applications and infrastructures involved in the cloud. Cloud security is absolutely critical in making sure your organization does not become vulnerable.
 
@@ -18,7 +18,7 @@ Do enjoy the interviews!
 
 Check out our previous series on [Security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/), [Governance, Risk and Compliance(GRC)](https://blog.naijasecforce.com/career-path-grc/) and [Bug bounty](https://blog.naijasecforce.com/career-path-bug-bounties/)
 
-## Joy Ibeabuchi-Emedom
+## [Joy Ibeabuchi-Emedom](https://ng.linkedin.com/in/joy-ibeabuchi)
 * My name is Joy Ibeabuchi-Emedom
 * Friends call my Eff-Jay meaning FatJoy 
 * Life is hard at the same time interesting; always believe you can conquer because truly you are your greatest FAN.
@@ -46,7 +46,7 @@ Get basic computer networking and security knowledge it would help put things in
 Yes, Ikenna Nwafor and Ike Williams these men have helped shaped my career into what it is today and where it is going to. I also have people who have been awesome tools in this Journey Daniel Onwude, Michael Ogunlade, Victor Okpara (my first Boss), Adeniyi Ademosu, Fatumata Soukouna-Coker, Babatola Oresajo
 
 
-## Ejovi Agarin
+## [Ejovi Agarin](https://uk.linkedin.com/in/ejakpoviagarin)
 Ejovi is a service driven business security professional with a combination of technical and business skills to understand client requirements and deliver services tailored to the client’s needs and operating environment.
 
 He has successfully managed and delivered a range of cyber security and data protection engagements across several market sectors including MSPs, Manufacturing, Financial Services, Utilities, Higher Education, Pharmaceuticals and Biotechnology etc.
