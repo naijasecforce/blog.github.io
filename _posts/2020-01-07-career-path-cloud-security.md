@@ -10,7 +10,7 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-On this series on career path, Mosimi interviwed cybersecurity professionals on cloud security. The cloud has changed how people use the Internet. This is especially true for companies and organizations who are adoptoing the use of cloud. While the adoption has increased, so have the challenges in regards to cloud security.
+On this series on career path, Mosimi interviewed cybersecurity professionals on cloud security. The cloud has changed how people use the Internet. This is especially true for companies and organizations who are adoptoing the use of cloud. While the adoption has increased, so have the challenges in regards to cloud security.
 
 Cloud security is a tactical path in cybersecurity that entails the protection of data, applications and infrastructures involved in the cloud. Cloud security is absolutely critical in making sure your organization does not become vulnerable.
 
