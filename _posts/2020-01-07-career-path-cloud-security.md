@@ -2,19 +2,28 @@
 layout: post
 title:  "Career Path Series - Cloud Security"
 author: rotimi
-categories: [ Reverse Shell, Hacking ]
+categories: [cloud security, Hacking ]
 tags: [rotimi, naijasecforce]
-image: ../assets/images/shell_lunchbox_1.jpg
+image: ../assets/images/cloud-security.png
 description: "Career Path Series - Cloud Security."
 featured: true
 hidden: true
 rating: 4.5
 ---
-This series on Career path- Mosimi interviwed professionals in cloud security. The cloud has changed how people use the Internet. This is especially true for companies and organizations who are adoptoing the use of cloud. While the adoption has increased, so have the challenges in regards to cloud security.
+On this series on Career path, Mosimi interviwed cybersecurity professionals on cloud security. The cloud has changed how people use the Internet. This is especially true for companies and organizations who are adoptoing the use of cloud. While the adoption has increased, so have the challenges in regards to cloud security.
 
-Cloud security is the protection of data, applications and infrastructures involved in the cloud. Cloud security is absolutely critical in making sure your organization does not become vulnerable.
+Cloud security is a tactical path in cybersecurity that entails the protection of data, applications and infrastructures involved in the cloud. Cloud security is absolutely critical in making sure your organization does not become vulnerable.
+
+Do enjoy the interviews!
+
+Check out our previous series on [Security assessment](https://blog.naijasecforce.com/career-path-series-security-assessment/), [Governance, Risk and Compliance(GRC)](https://blog.naijasecforce.com/career-path-grc/) and [Bug bounty](https://blog.naijasecforce.com/career-path-bug-bounties/)
 
 ## Joy Ibeabuchi-Emedom
+* My name is Joy Ibeabuchi-Emedom
+* Friends call my Eff-Jay meaning FatJoy 
+* Life is hard at the same time interesting; always believe you can conquer because truly you are your greatest FAN.
+* People say if I wasn’t into Information Technology, I would be a good comedian. 
+* I believe LOVE always CONQUERS ALL.
 
 ### What attracted you to this career path?
 Honestly, it was the Movie 24. Sounds funny right? The character Chloe fascinated me on how she was able to trace things happening on the systems.  I have always believed that the human mind is the origin of Innovation - If It Can Think It, then it can be done.  
@@ -35,13 +44,6 @@ Get basic computer networking and security knowledge it would help put things in
 
 ### Do you have a mentor?
 Yes, Ikenna Nwafor and Ike Williams these men have helped shaped my career into what it is today and where it is going to. I also have people who have been awesome tools in this Journey Daniel Onwude, Michael Ogunlade, Victor Okpara (my first Boss), Adeniyi Ademosu, Fatumata Soukouna-Coker, Babatola Oresajo
-
-Brief Bio
-	My name is Joy Ibeabuchi-Emedom
-	Friends call my Eff-Jay meaning FatJoy 
-	Life is hard at the same time interesting; always believe you can conquer because truly you are your greatest FAN.
-	People say if I wasn’t into Information Technology, I would be a good comedian. 
-	I believe LOVE always CONQUERS ALL.
 
 
 ## Ejovi Agarin
