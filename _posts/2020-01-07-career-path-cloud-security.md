@@ -10,7 +10,7 @@ featured: true
 hidden: true
 rating: 4.5
 ---
-On this series on career path, Mosimi interviewed cybersecurity professionals on cloud security. The cloud has changed how people use the Internet. This is especially true for companies and organizations who are adoptoing the use of cloud. While the adoption has increased, so have the challenges in regards to cloud security.
+On this series on career path, Mosimi interviewed cybersecurity professionals on cloud security. The cloud has changed how people use the Internet. This is especially true for companies and organizations who are adopting the use of cloud. While the adoption has increased, so have the challenges in regards to cloud security.
 
 Cloud security is a tactical path in cybersecurity that entails the protection of data, applications and infrastructures involved in the cloud. Cloud security is absolutely critical in making sure your organization does not become vulnerable.
 
@@ -26,8 +26,7 @@ Check out our previous series on [Security assessment](https://blog.naijasecforc
 * I believe LOVE always CONQUERS ALL.
 
 ### What attracted you to this career path?
-Honestly, it was the Movie 24. Sounds funny right? The character Chloe fascinated me on how she was able to trace things happening on the systems.  I have always believed that the human mind is the origin of Innovation - If It Can Think It, then it can be done.  
-I was curious to understand how systems integrate and how people could communicate with each other from different countries.
+Honestly, it was the Movie 24. Sounds funny right? The character Chloe fascinated me on how she was able to trace things happening on the systems.  I have always believed that the human mind is the origin of Innovation - If It Can Think It, then it can be done. I was curious to understand how systems integrate and how people could communicate with each other from different countries.
 
 ### How has your first few years in cloud security been for you?
 Awesome, mind blowing, engaging and busy. Knowing that as we gear towards technology and move away from physical datacenters to cloud services, one must ensure that the right configuration, policies and procedures are in place to prevent us from exposure.
@@ -43,11 +42,11 @@ Nothing is static in this field. Continuous reading, research, self-improvement 
 Get basic computer networking and security knowledge it would help put things into perspectives. I would recommend the CompTIA Security + and CompTIA N+ course. If you are a fresh graduate, try to take up internship jobs in this field to give you good background. Learn one scripting skills e.g. Python, It is good for automating your processes.
 
 ### Do you have a mentor?
-Yes, Ikenna Nwafor and Ike Williams these men have helped shaped my career into what it is today and where it is going to. I also have people who have been awesome tools in this Journey Daniel Onwude, Michael Ogunlade, Victor Okpara (my first Boss), Adeniyi Ademosu, Fatumata Soukouna-Coker, Babatola Oresajo
+Yes, Ikenna Nwafor and Ike Williams. These men have helped shaped my career into what it is today and where it is going to. I also have people who have been awesome tools in this Journey Daniel Onwude, Michael Ogunlade, Victor Okpara (my first Boss), Adeniyi Ademosu, Fatumata Soukouna-Coker and Babatola Oresajo
 
 
 ## [Ejovi Agarin](https://uk.linkedin.com/in/ejakpoviagarin)
-Ejovi is a service driven business security professional with a combination of technical and business skills to understand client requirements and deliver services tailored to the client’s needs and operating environment.
+Ejovi is a service driven business-security professional with a combination of technical and business skills to understand client requirements and deliver services tailored to the client’s needs and operating environment.
 
 He has successfully managed and delivered a range of cyber security and data protection engagements across several market sectors including MSPs, Manufacturing, Financial Services, Utilities, Higher Education, Pharmaceuticals and Biotechnology etc.
 
@@ -68,9 +67,7 @@ Understanding the basic IT concepts- like TCP/IP stack, network routing, how app
 I join communities and leverage opportunities in communities. To develop mentees and peers, I continually share insights, project artefacts, white papers and patterns and work with them on community projects e.g frameworks and design patterns for common client use cases.
 
 ### What is your advice for experienced people like yourself?
-Maintain your knowledge and keep up to date with the fast changing threat and offerings landscape , join communities, keep playing around with the consoles.  
-Understand clearly the use case before considering the security requirements. Be business focused.  
-Be mindful of the temptation to adopt conventional security principles in your security design for the cloud.
+Maintain your knowledge and keep up to date with the fast changing threat and offerings landscape , join communities, keep playing around with the consoles. Understand clearly the use case before considering the security requirements. Be business focused. Be mindful of the temptation to adopt conventional security principles in your security design for the cloud.
 
 
 ## About Author:
