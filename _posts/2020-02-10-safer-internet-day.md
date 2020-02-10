@@ -4,7 +4,7 @@ title:  "Safer Internet Day 2020"
 author: rotimi
 categories: [ safer internet, Hacking ]
 tags: [naijasecforce]
-image: ../assets/images/shell_lunchbox_1.jpg
+image: ../assets/images/sfid.png
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
 hidden: true
@@ -57,5 +57,10 @@ The internet is vast, wonderful and a dangerous place. Sharing too much informat
 8. https://support.knowbe4.com/hc/en-us/articles/360001508408-Breached-Password-Test-BPT-
 9. https://haveibeenpwned.com/
 
-About Author
+## About Author:
+[Mosimilolu Odusanya](https://www.linkedin.com/in/mosimilolu-odusanya) is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
+
+One of her goals is bridging the gender gap in cyber security by motivating women to join the Cyber Security Industry. She is also available for a chat/discussion if any lady needs it. 
+
+She enjoys travelling and blog about her experience on www.eattechtravel.com.
 
