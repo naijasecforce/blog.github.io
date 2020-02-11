@@ -19,7 +19,7 @@ Subsequent, to our review of [Data Breaches in 2019](https://blog.naijasecforce.
 ### Do not re-use passwords
 According to a 2019 [Google Survey](http://services.google.com/fh/files/blogs/google_security_infographic.pdf), 65% of people use the same password for multiple accounts. In addition,an investigation carried out by [Microsoft](https://www.microsoft.com/securityinsights/identity) between January 2019 and March 2019 revealed that over 44m Microsoft Users were using compromised credentials (those accounts were forced to reset their passwords). That's alot and concerning. Remember the  [Disney+ hack](https://www.zdnet.com/article/thousands-of-hacked-disney-accounts-are-already-for-sale-on-hacking-forums/) which happened last year where users lost access to their accounts or the [Ring hack](https://www.popularmechanics.com/technology/security/a30242264/ring-doorbell-hack/) where a strange voice was heard in a little's girl room. These were as a result of users re-using passwords across multiple platforms and websites resulting in some accounts being vulnerable. The risk is that attackers can use those compromised credentials to log on to other platforms and services.   
 
-For IT Administrators, you can integrate your Active Directory with password hashes on HaveIBeenPwned to prevent your users from using already compromised passwords. You can use various implementation techniques like [checking for breached passwords](https://jacksonvd.com/checking-for-breached-passwords-ad-using-k-anonymity/), [Integrting database of pwned passwords with nicrososft active directory](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/#more-25), [integrting database of pwned password hashes](Integrting database of pwned passwords) and (https://support.knowbe4.com/hc/en-us/articles/360001508408-Breached-Password-Test-BPT-).
+For IT Administrators, you can integrate your Active Directory with password hashes on HaveIBeenPwned to prevent your users from using already compromised passwords. You can use various implementation techniques like [checking for breached passwords](https://jacksonvd.com/checking-for-breached-passwords-ad-using-k-anonymity/), [Integrting database of pwned passwords with micrososft active directory](https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/#more-25), [integrting database of pwned password hashes](Integrting database of pwned passwords) and [a breached password test](https://support.knowbe4.com/hc/en-us/articles/360001508408-Breached-Password-Test-BPT-).
 
 ### Use Password Managers
 A Password Manager is a program that stores your passwords in an encrypted form, helps you generate strong passwords and remembers passwords for you. Bear in mind, it comes with its own risks. You may forget your master password (the password to your password vault) or if your master password gets compromised (the keys to other platforms and services are at risk).   
@@ -45,17 +45,6 @@ For IT Administrators, you can add register for a domain search. This service al
 ### Do not share too much online.    
 The internet is vast, wonderful and a dangerous place. Sharing too much information about yorself might lead you into trouble. Cybercriminals can leverage on information been shared online to build trust and cause some damages to you or your organization. Do not share personal information like your location or date of birth.    
 "The internet is a permanent digital record that will live on long after we are gone"
-
-## Refrences
-1. http://services.google.com/fh/files/blogs/google_security_infographic.pdf   
-2. https://www.microsoft.com/securityinsights/identity    
-3. https://www.zdnet.com/article/thousands-of-hacked-disney-accounts-are-already-for-sale-on-hacking-forums/    
-4. https://www.popularmechanics.com/technology/security/a30242264/ring-doorbell-hack/   
-5. https://jacksonvd.com/checking-for-breached-passwords-ad-using-k-anonymity/    
-6. https://amarkulo.com/integrating-database-of-pwned-password-hashes-with-microsoft-ad/#more-25   
-7. https://www.reddit.com/r/sysadmin/comments/8bod2o/integrating_database_of_pwned_password_hashes/   
-8. https://support.knowbe4.com/hc/en-us/articles/360001508408-Breached-Password-Test-BPT-   
-9. https://haveibeenpwned.com/   
 
 ## About Author:
 [Mosimilolu Odusanya](https://www.linkedin.com/in/mosimilolu-odusanya) is a cybersecurity senior consultant with experience in IT Audit and IT Security Consulting. She has assisted SEC-Listed organisations with various cyber security projects from Security Assessments, Data Privacy Law Implementation, SCADA Assessments, etc. She have also have worked with various clients in various sectors including Oil & Gas Companies, Financial Institutions, Insurance Companies etc.
